@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Este esquema básico está tomado del proyecto CHART como punto de partida para establecer
+     un -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+  <!-- Contiene la descripción bibliográfica completa del archivo electrónico -->       
+         <titleStmt>
+            <!-- Información sobre el título de la obra y los responsables del 
+            contenido -->
+            <!-- En orden, a continuación: título de la obra, fuente de
+            financiación, responsable principal de la creación del texto
+            electrónico y otra información sobre las personas responsables para
+            distintos aspectos de la edición -->
+            <title>Título</title>
+            <funder>Patrocinio</funder>
+            <principal>Nombre del investigador principal</principal>
+            <respStmt>
+               <resp>transcripción</resp>
+               <name>Nombre</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <!-- Información sobre la entidad responsable de la publicación -->
+            <publisher>El Colegio de Michoacán, A.C.</publisher>
+            <pubPlace>Zamora, Michoacán</pubPlace>
+            <date>2021</date>
+            <idno></idno>
+            <distributor>El Colegio de Michoacán, A.C.</distributor>
+            <availability><licence>Creative Commons</licence></availability>
+         </publicationStmt>
+         <sourceDesc>
+            <!-- Información sobre la fuente para edición en formato digital -->
+            <msDesc>
+               <msIdentifier>
+                  <country>México</country>
+                  <settlement>CDMX</settlement>
+                  <repository>Archivo General de la Nación</repository>
+                  <idno></idno>
+               </msIdentifier>
+               <msContents>
+                  <summary></summary>
+                  <msItem>
+                     <locus></locus>
+                     <note></note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <condition></condition>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate></origDate>
+                     <origPlace></origPlace>
+                  </origin>
+               </history>               
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p></p>
+         </projectDesc>
+         <editorialDecl>
+            <p></p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy xml:id="Tip-CH">
+               <bibl>Tipología CHARTA, 2014</bibl>
+               <!-- Grupo 1 / Textos legislativos -->
+               <category xml:id="tex-leg">
+                  <category xml:id="tex-leg-ord">
+                     <catDesc>Ordenanzas</catDesc>
+                  </category>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <!-- Información no bibliográfica sobre el texto, como las lenguas
+         utilizadas, el contexto de producción y los participantes en su
+         creación -->
+         <langUsage>
+            <language ident="es">español</language>
+         </langUsage>
+         <textClass>
+            <catRef/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+      <!-- Información sobre las revisiones del archivo electrónico -->
+         <change when="2021-05-17">Creación del archivo</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n=""/>
+         <div>
+            <!-- Puede llevar <ab> para bloques o <p> para párrafos -->
+         </div>
+      </body>
+  </text>
+</TEI>
