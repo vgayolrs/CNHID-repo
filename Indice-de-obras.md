@@ -14,13 +14,13 @@ sobre el estado:
 
 | ID  | título | fechas | lugar de producción | fuente de digitalización - Tipo de Copia | fecha de dig | publicado | marcado tei |
 |-----|--------|--------|---------------------|------------------------------------------|--------------|-----------|-------------|
-| CNHID00001 | Aranzel de los derechos que han de percibir los receptores de la Real Audiencia de efta Corte | 1741-07-11 | CDMX | TrCop.- FC | 2002 | LJ | NO |
-| CNHID00002 | Aranzel de los procuradores de la Real Audiencia de efta Corte | 1741-07-12 | CDMX | TrCop. - FC | 2002 | LJ | NO |
-| CNHID00003 | Aranzel de los derechos que han de percebir los Escriuanos de Camara de la Real Audiencia de efta Corte, y sus Oficiales| 1741-07-12 | CDMX | TrCop. - FC | 2002 | LJ | no |
-| CNHID00004 | Real ordenanza para el establecimiento e instrucción de intendentes... | 1786 | MD | OCR - imgD - Facs. | 2017-02-17 | no | en proceso |
-| ID  | título | fechas | lugar de producción | fuente de digitalización - Tipo de Copia | fecha de dig | publicado | marcado tei |
-| ID  | título | fechas | lugar de producción | fuente de digitalización - Tipo de Copia | fecha de dig | publicado | marcado tei |
-| ID  | título | fechas | lugar de producción | fuente de digitalización - Tipo de Copia | fecha de dig | publicado | marcado tei |
+| CNHID00001 | Arancel de los derechos que han de percibir los receptores de la Real Audiencia de esta Corte | 1741-07-11 | CDMX | TrCop.- FC | 2002 | LJ | NO |
+| CNHID00002 | Arancel de los procuradores de la Real Audiencia de esta Corte | 1741-07-12 | CDMX | TrCop. - FC | 2002 | LJ | NO |
+| CNHID00003 | Arancel de los derechos que han de percebir los Escribanos de Camara de la Real Audiencia de esta Corte, y sus Oficiales| 1741-07-12 | CDMX | TrCop. - FC | 2002 | LJ | no |
+| CNHID00004 | Real ordenanza para el establecimiento e instrucción de intendentes... Nueva España | 1786 | MD | Facs. imgD+OCR | 2017-02-17 | no | en proceso |
+| CNHID00005 | Reales aranceles de los ministros de la real audiencia... | 1699-1727 | CDMX | TrCop. - FC | 2014 | CGJ | en proceso |
+| CNHID00006 | Cedulario de la Nueva España, Vasco de Puga | 1563 | CDMX | Facs.-imgD OCR+TrCop. | 2017-03-31 | no | en proceso |
+| CNHID00007 | Real ordenanza para el establecimiento e instrucción de intendentes... Río de la Plata | 1782 | MD | imgD OCR | 2018-10-20 | no | en proceso |
 
 ## Identificación de siglas
 
@@ -60,7 +60,6 @@ proyecto a corto y mediano plazo.
 * 1512 Leyes de Burgos
 * 1523 Instrucciones a Cortés sobre repartimiento de tierras a españoles
 * 1542 Leyes nuevas
-* 1563 Cedulario de Puga
 * 1570 Copulata de leyes de Indias
 * 1573 Ordenanzas de nuevos descubrimientos, nuevas poblaciones y pacificación de indios.
 * 1591 Composiciones de tierras (inicio)
