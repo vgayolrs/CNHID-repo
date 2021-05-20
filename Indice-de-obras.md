@@ -11,7 +11,7 @@ en el que se comenzó el proceso de digitalización. Se incluye información
 sobre el estado:
 
 | ID  | título | fechas | lugar de producción | fuente de digitalización - Tipo de Copia | fecha de dig | publicado | marcado tei |
-|-----|--------|--------|---------------------|--------------------------|--------------|-------------|
+|-----|--------|--------|---------------------|------------------------------------------|--------------|-----------|-------------|
 | CNHID00001 | Aranzel de los derechos que han de percibir los receptores de la Real Audiencia de efta Corte | 1741-07-11 | CDMX | TrCop.- FC | | |  |
 | CNHID00002 | | | | | 
 
