@@ -1,3 +1,7 @@
+---
+title: Indice de obras
+---
+
 # Índice CNHID de obras, colecciones de leyes y documentos de archivo
 
 ## Textos digitalizados
@@ -6,9 +10,30 @@ Los textos se presentan y se identifican con el número CNHIDXXXXX en el orden
 en el que se comenzó el proceso de digitalización. Se incluye información
 sobre el estado:
 
-| ID  | título | fechas | lugar de producción | fuente de digitalización | fecha de dig | marcado tei |
+| ID  | título | fechas | lugar de producción | fuente de digitalización / Tipo de Copia | fecha de dig | publicado | marcado tei |
 |-----|--------|--------|---------------------|--------------------------|--------------|-------------|
-| CNHID00001 | Aranzel de los derechos que han de percibir los receptores de la Real Audiencia de efta Corte | 1741-07-11 | CDMX | ||
+| CNHID00001 | Aranzel de los derechos que han de percibir los receptores de la Real Audiencia de efta Corte | 1741-07-11 | CDMX | TrCop. / FC |  |
+| CNHID00002 | 
+
+## Identificación de siglas
+
+Lugar de producción
+
+| sigla | nombre |
+|-------|--------|
+| CDMX | Ciudad de México, Nueva España |
+
+Fuente de digitalización y tipo de copia
+
+| siglas | descripción |
+|--------|-------------|
+| FC | Fotocopia |
+| imgD | Imagen digital |
+| OCR | Reconocimiento óptico de caracteres |
+| TrOrg. | Transcripción del original |
+| TrCop. | Transcripción de copia del original |
+
+
 
 ## Textos a digitalizar
 
