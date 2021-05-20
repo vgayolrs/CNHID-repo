@@ -7,7 +7,7 @@ normativos hispano-indianos que se hayan producido entre 1492 y 1821.
 La finalidad es desarrollar un sistema de publicación de fuentes 
 normativas digitalizadas aprovechando la TEI y que facilite no sólo 
 su publicación en línea sino que sirvan para el análisis de estos
-textos con herramientasd digitales.
+textos con herramientas digitales.
  
 El proyecto se conecta con los trabajos de investigación de la Red de Estudios
 del Régimen de Subdelegaciones en la América Borbónica [RERSAB](http://www.rersab.org/)
