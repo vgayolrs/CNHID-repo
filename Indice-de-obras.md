@@ -1,18 +1,26 @@
 # Índice CNHID de obras, colecciones de leyes y documentos de archivo
 
+## Textos digitalizados
+
+Los textos se presentan y se identifican con el número CNHIDXXXXX en el orden
+en el que se comenzó el proceso de digitalización. Se incluye información
+sobre el estado:
+
+| ID  | título | fechas | lugar de producción | fuente de digitalización | fecha de dig | marcado tei |
+|-----|--------|--------|---------------------|--------------------------|--------------|-------------|
+| CNHID00001 | Aranzel de los derechos que han de percibir los receptores de la Real Audiencia de efta Corte | 1741-07-11 | CDMX | ||
+
+## Textos a digitalizar
+
 La siguiente es una lista no exhaustiva de las obras,
 colecciones de leyes y documentos de archivo que se prevee incluir en el
 proyecto a corto y mediano plazo.
 
-| ID  | fecha | título | digitalizado | repo |
-|-----|-------|--------|--------------|------|
-|CNHID00001 | 1501 | Instrucciones a Nicolás de Ovando | no | no
-
-
-1512. Leyes de Burgos
-1523. Instrucciones a Cortés sobre repartimiento de tierras a españoles
-1542. Leyes nuevas
-1563. Cedulario de Puga
+1501 Instrucciones a Nicolás de Ovando
+1512 Leyes de Burgos
+1523 Instrucciones a Cortés sobre repartimiento de tierras a españoles
+1542 Leyes nuevas
+1563 Cedulario de Puga
 1570. Copulata de leyes de Indias
 1573. Ordenanzas de nuevos descubrimientos, nuevas poblaciones y pacificación de indios.
 1591. Composiciones de tierras (inicio)
