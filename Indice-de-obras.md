@@ -12,8 +12,13 @@ sobre el estado:
 
 | ID  | título | fechas | lugar de producción | fuente de digitalización - Tipo de Copia | fecha de dig | publicado | marcado tei |
 |-----|--------|--------|---------------------|------------------------------------------|--------------|-----------|-------------|
-| CNHID00001 | Aranzel de los derechos que han de percibir los receptores de la Real Audiencia de efta Corte | 1741-07-11 | CDMX | TrCop.- FC | | |  |
-| CNHID00002 | | | | | 
+| CNHID00001 | Aranzel de los derechos que han de percibir los receptores de la Real Audiencia de efta Corte | 1741-07-11 | CDMX | TrCop.- FC | 2002 | LJ | NO |
+| CNHID00002 | Aranzel de los procuradores de la Real Audiencia de efta Corte | 1741-07-12 | CDMX | TrCop. - FC | 2002 | LJ | NO |
+| CNHID00003 | Aranzel de los derechos que han de percebir los Escriuanos de Camara de la Real Audiencia de efta Corte, y sus Oficiales| 1741-07-12 | CDMX | TrCop. - FC | 2002 | LJ | no |
+| CNHID00004 | Real ordenanza para el establecimiento e instrucción de intendentes... | 1786 | MD | OCR - imgD - Facs. | 2017-02-17 | no | en proceso |
+| ID  | título | fechas | lugar de producción | fuente de digitalización - Tipo de Copia | fecha de dig | publicado | marcado tei |
+| ID  | título | fechas | lugar de producción | fuente de digitalización - Tipo de Copia | fecha de dig | publicado | marcado tei |
+| ID  | título | fechas | lugar de producción | fuente de digitalización - Tipo de Copia | fecha de dig | publicado | marcado tei |
 
 ## Identificación de siglas
 
@@ -22,16 +27,24 @@ Lugar de producción
 | sigla | nombre |
 |-------|--------|
 | CDMX | Ciudad de México, Nueva España |
+| MD | Madrid, España |
 
 Fuente de digitalización y tipo de copia
 
 | siglas | descripción |
 |--------|-------------|
+| Facs. | Facsimilar |
 | FC | Fotocopia |
 | imgD | Imagen digital |
 | OCR | Reconocimiento óptico de caracteres |
 | TrOrg. | Transcripción del original |
 | TrCop. | Transcripción de copia del original |
+
+Publicación previa
+
+| siglas | descripción |
+| CGJ | Gayol, *El costo del gobierno...* |
+| LJ | Gayol, *Laberintos de justicia...* |
 
 
 
