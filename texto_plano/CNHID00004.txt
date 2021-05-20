@@ -1,4 +1,7 @@
-{p1}REAL ORDENANZA
+{h1r.} {grabado}
+{h1v.}
+
+{h2r.}REAL ORDENANZA
 PARA
 EL ESTABLECIMIENTO É INSTRUCCION
 DE
@@ -10,9 +13,9 @@ DE ORDEN DE SU MAGESTAD.
 MADRID.
 AÑO DE 1786.
 
-{p2}
+{h2v.}
 
-{p3}ÍNDICE
+{h3r.}ÍNDICE
 DE LAS PRINCIPALES MATERIAS
 DE QUE TRATA ESTA ORDENANZA EN CADA UNO DE SUS ARTÍCULOS,
 CON EXPRESION
@@ -41,7 +44,7 @@ tículo 3....... 5
 Superintendencia: que se entienda como dele-
 a 2
 
-{p4}(II)
+{h3v.}(II)
 
 gada de la General de toda la América; y se de-
 termina una Junta Superior de Real Hacienda: los 
@@ -76,7 +79,7 @@ y subdelegacion que los Intendentes han de hacer
 en los sugetos que los sirvan, exceptuando los que 
 se expresan: Artículo 10......... 15
 
-{p5}(III)
+{h4r.}(III)
 
 Jurisdicción Real en los Corregimientos y Al-
 caldías Mayores extinguidos: recáe en los respecti-
@@ -87,18 +90,37 @@ tos : Artículo 11.... 16
 
 Jueces Subdelegados en las quatro Causas: en 
 qué Pueblos se han de poner: quiénes los han de 
-nombrar: en qué forma: baxo qué calidades; y penas con que se prohíben los repartimientos: Articulo 12	18
+nombrar: en qué forma: baxo qué calidades; y pe-
+nas con que se prohíben los repartimientos: Ar-
+ticulo 12......... 18
 
-Gobernadores, Alcaldes y demas Oficios de República que á los Indios permiten las Leyes: en qué términos, y con qué circunstancias se les conserva el derecho y costumbre de elegirlos donde la hubiese : Artículo 13	21
+Gobernadores, Alcaldes y demas Oficios de Re
+pública que á los Indios permiten las Leyes: en 
+qué términos, y con qué circunstancias se les con-
+serva el derecho y costumbre de elegirlos donde la 
+hubiese : Artículo 13..... 21
 
-Confirmación de las dichas elecciones: quiénes, y cómo las han de executar: Artículo 14	22
+Confirmación de las dichas elecciones: quiénes,
+y cómo las han de executar: Artículo 14.... 22
 
 CAUSA DE JUSTICIA.
-Tenientes Asesores de los Intendentes : quién los ha de nombrar: jurisdicción que deben exercer; y en qué casos han de suplir por los Intendentes: Artículo 15	23
 
-Falta á un mismo tiempo del Intendente General, ó de alguno de los de Provincia y su respectivo Asesor i quiénes han de suplir por úno y otro ; y en qué forma: Artículo 16	25
+Tenientes Asesores de los Intendentes : quién 
+los ha de nombrar: jurisdiccion que deben exercer; 
+y en qué casos han de suplir por los Intendentes: 
+Artículo 15..... 23
 
-Recayendo el exercicio de las funciones de Intendente en alguno de los Ministros Principales de Real Hacienda: cómo, y con qué circunstancias ha de nombrar éste quien le substituya en las obligaciones de su empléo propietario: Artículo 17	26
+Falta á un mismo tiempo del Intendente Ge-
+neral, ó de alguno de los de Provincia y su res-
+
+{h4v.}(IV)
+
+pectivo Asesor: quiénes han de suplir por úno y 
+ótro; y en qué forma: Artículo 16..... 25
+
+Recayendo el exercicio de las funciones de In-
+tendente en alguno de los Ministros Principales de 
+Real Hacienda: cómo, y con qué circunstancias ha de nombrar éste quien le substituya en las obligaciones de su empléo propietario: Artículo 17	26
 
 Sueldos que deben gozar los Tenientes Asesores de los Intendentes: tiempo que han de servir su empléo; y cómo podrán ser suspendidos del exercio de él, ó removidos: Artículo 18	27
 
