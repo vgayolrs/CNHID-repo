@@ -72,6 +72,5 @@ proyecto a corto y mediano plazo.
 * 1754 Pragmática sobre tierras
 * 1768 Ordenanza de libre comercio
 * 1776 Instrucción de regentes
-* 1782 Ordenanza de intendentes..., Río de la Plata
 * 1803 Ordenanza general de intendentes
 
