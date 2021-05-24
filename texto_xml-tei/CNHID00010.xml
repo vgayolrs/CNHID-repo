@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+  <!-- Contiene la descripción bibliográfica completa del archivo electrónico -->
+         <titleStmt>
+            <!-- Información sobre el título de la obra y los responsables del
+            contenido -->
+            <!-- En orden, a continuación: título de la obra, fuente de
+            financiación, responsable principal de la creación del texto
+            electrónico y otra información sobre las personas responsables para
+            distintos aspectos de la edición -->
+            <title>CNHID00010</title>
+            <funder>Patrocinio</funder>
+            <principal>Nombre del investigador principal</principal>
+            <respStmt>
+               <resp>transcripción</resp>
+               <name>
+                  <forename>Víctor</forename>
+                  <surname>Gayol</surname>
+               </name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <!-- Información sobre la entidad responsable de la publicación -->
+            <publisher>El Colegio de Michoacán, A.C.</publisher>
+            <pubPlace>Zamora, Michoacán</pubPlace>
+            <date>2021</date>
+            <idno></idno>
+            <distributor>El Colegio de Michoacán, A.C.</distributor>
+            <availability><licence>Creative Commons</licence></availability>
+         </publicationStmt>
+         <sourceDesc>
+            <!-- Información sobre la fuente para edición en formato digital -->
+            <msDesc>
+               <msIdentifier>
+                  <country>México</country>
+                  <settlement>CDMX</settlement>
+                  <repository>Archivo General de la Nación</repository>
+                  <idno>Reales Cédulas Originales, volumen 141, expediente 79, ff. 103r.-104r.</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Manda que los intendentes den cuenta a los 
+                     virreyes, presidentes o gobernadores de los 
+                     nombramientos de subdelegados que hagan.</summary>
+                  <msItem>
+                     <locus></locus>
+                     <note></note>
+                  </msItem>
+               </msContents>
+					<!-- estado físico del documento -->
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <condition></condition>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+					<!-- historia del documento -->
+                  <origin>
+                     <origDate></origDate>
+                     <origPlace></origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+			<!-- descripción de la codificación -->
+         <projectDesc>
+            <p></p>
+         </projectDesc>
+         <editorialDecl>
+            <p></p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy xml:id="T-CNHID">
+               <bibl>Tipología diplomática CNHID, 2021</bibl>
+               <!-- Definir, a partir de la lista propuesta, un auto acordado de la Audiencia de México -->
+               <category xml:id="auDel-RlProv">
+                  <category xml:id="AudMx-AutAcord">
+                     <catDesc>Auto Acordado de la Audiencia de México</catDesc>
+                  </category>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <!-- Información no bibliográfica sobre el texto, como las lenguas
+         utilizadas, el contexto de producción y los participantes en su
+         creación -->
+         <langUsage>
+            <language ident="es">español</language>
+         </langUsage>
+         <textClass>
+            <catRef/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+      <!-- Información sobre las revisiones del archivo electrónico -->
+         <change when="2021-05-17">Creación del archivo</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n=""/>
+         <div>
+            <p>
+               <lb/>R.da en 27 de marzo de 89 +
+            </p>
+            <p>
+               <lb/>n:79
+            </p>
+            <p>
+               <lb/>Exmõ S.or
+            </p>
+            <p>
+               <lb/>Correspondiendo a los Virreyes, y 
+               <lb/>demas Personas a cuio cargo está el 
+               <lb/>Superior Govierno delos Reynos y Prov.as 
+               <lb/>de Indias velar sobre la buena ad
+               <lb/>ministracion de X.a en sus distritos 
+               <lb/>respectivos, y siendo por esta razon, 
+               <lb/>no solo conven.te y decoroso, sino absolu
+               <lb break="no"/>tam.te necesario que tengan conocim.to 
+               <lb/>y satisfaccion de los sugetos que nom
+               <lb break="no"/>bran los Governadores Yntendetes pa
+               <lb break="no"/>ra subdelegados suyos en los parages 
+               <lb/>donde se hallan establecidas Yntend.as 
+               <lb/>ha resuelto S. M. con previo dictamen 
+               <lb/>de su suprema Junta de Estado que 
+               <lb/>dichos Yntendentes den cuenta á los 
+               <lb/>Virreyes, Presidentes, ó Governadores 
+               <lb/>que tengan a su cargo el superior Go
+               <lb break="no"/>vierno de la Prov.a de los nombram.tos 
+               <lb/>de subdelegados que hagan con expre
+               <lb break="no"/>sion delas circunstancias y aptitud 
+               <lb/>que concurran en los sugetos, sin po
+               <lb/>nerlos en posesion hasta que los Virre
+               <lb/>yes, Presidentes ó Governadores los 
+               <lb/>aprueben; pero si estos por la noticias 
+               <lb/>que yá tengan, ó tomaren de ellos no 
+               <lb/>juzgaren conven.te aprobarlos, lo avisa
+               <pb n=""/><lb break="no"/>rán á los Yntend.tes para q.e nombren 
+               <lb/>otros con la misma circunstancia de 
+               <lb/>esperar la aprovacion; y si en este se
+               <lb break="no"/>gundo caso tuvieren tambien los Virre
+               <lb break="no"/>yes y demas Personas que tengan el 
+               <lb/>Govierno Superior justas razones pa
+               <lb break="no"/>ra no aprovar los nombrados, los 
+               <lb/>nombrarán ellos mismos en virtud 
+               <lb/>de sus facultades superiores economi
+               <lb/>cas y darán cuenta á S.M. con 
+               <lb/>expresion de las razones que huvie
+               <lb break="no"/>ren tenido para proceder y execu
+               <lb break="no"/>tarlo asi. Prevengolo á V.E. de 
+               <lb/>Real Orden para su intelig.a y cum
+               <lb break="no"/>plim.to en el distrito de su man
+               <lb/>do. Dios gūe a V.E. n.s a.s S.n Ilde
+               <lb break="no "/>fonso 7 de Octubre de 1788.
+            </p>
+            <p>
+               <lb/>Ant.o Porlier
+            </p>
+            <p>
+               <lb/>S.or Virrey de Mexico
+            </p>
+            <p><pb n=""/>
+               <lb/>Mexico 27 de Febrero de 1789.
+            </p>
+            <p>
+               <lb/>Para el puntual cumplimiento de lo q.e S.M. 
+               <lb/>se sirve mandar en esta Real orden trasladese 
+               <lb/>a los Srês. Yntendentes del Distrito de este Vi
+               <lb/>rreinato á la Real Audiencia, y a los Señores 
+               <lb/>Fiscales y Asesor grãl., dandose cuenta a S.M. 
+               <lb/>de esta procidencia en contestacion.
+            </p>
+            <p>
+               <lb/>Florez
+            </p>
+            <p>
+               <lb/>Fhotodo Antonio Bonilla
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>
