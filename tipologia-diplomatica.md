@@ -18,13 +18,17 @@ La necesidad de la tipología. Se toma como base la tipología propuesta por Jos
 ### Emanados de autoridades delegadas
 
 * Real provisión
-    - Real orden
-    - Mandamiento
-    - Ordenanza
-    - Bando
-    - Carta acordada (auto acordado)
-    - Sentencias
-    - Carta
+  * Real orden
+  * Mandamiento
+  * Ordenanza
+  * Bando
+  * Carta acordada (auto acordado)
+  * Sentencias
+  * Carta  
+
+## Tipología de reales provisiones
+
+
 
 
 [^1]: Real Díaz, José Joaquín autor. Estudio diplomático del documento indiano José Joaquín Real Díaz, 1970.
