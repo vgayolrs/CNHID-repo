@@ -46,8 +46,8 @@ Publicación previa
 
 | siglas | descripción |
 |--------|-------------|
-| CGJ | Gayol, *El costo del gobierno...* |
-| LJ | Gayol, *Laberintos de justicia...* |
+| CGJ | Gayol, *El costo del gobierno...* [^1]|
+| LJ | Gayol, *Laberintos de justicia...* [^2]|
 
 
 
@@ -74,3 +74,8 @@ proyecto a corto y mediano plazo.
 * 1768 Ordenanza de libre comercio
 * 1776 Instrucción de regentes
 * 1803 Ordenanza general de intendentes
+
+## Referencias
+
+[^1]: Gayol, Víctor. *El costo del gobierno y la justicia. aranceles para tribunales, juzgados, oficinas de justicia, gobierno y real hacienda de la Corte de México y lugares foráneos (1699-1784)*. Colección Investigaciones. Zamora: El Colegio de Michoacán, 2017.
+[^2]: Gayol, Víctor. *Laberintos de justicia: procuradores, escribanos y oficiales de la Real Audiencia de México (1750-1812)*. Colección Investigaciones. Zamora, Michoacán: El Colegio de Michoacán, A.C, 2007.
