@@ -14,7 +14,7 @@
             financiación, responsable principal de la creación del texto
             electrónico y otra información sobre las personas responsables para
             distintos aspectos de la edición -->
-            <title>Título</title>
+            <title>CNHID00008</title>
             <funder>Patrocinio</funder>
             <principal>Nombre del investigador principal</principal>
             <respStmt>
@@ -38,10 +38,13 @@
                   <country>México</country>
                   <settlement>CDMX</settlement>
                   <repository>Archivo General de la Nación</repository>
-                  <idno></idno>
+                  <idno>Reales Cédulas Originales, volumen 136, expediente 14, ff. 245r.-246r.</idno>
                </msIdentifier>
                <msContents>
-                  <summary></summary>
+                  <summary>Señala que con motivo de la entrada en vigor de la Real Ordenanza 
+                     deben cesar en su encargo los corregidores y alcaldes mayores que han 
+                     cumplido su tiempo, pero que convendrá que algunos de ellos continúen en 
+                     calidad de subdelegados de los intendentes.</summary>
                   <msItem>
                      <locus></locus>
                      <note></note>
@@ -58,8 +61,8 @@
                <history>
 							 <!-- historia del documento -->
                   <origin>
-                     <origDate></origDate>
-                     <origPlace></origPlace>
+                     <origDate>28 de marzo de 1787</origDate>
+                     <origPlace>Madrid</origPlace>
                   </origin>
                </history>
             </msDesc>
@@ -110,20 +113,20 @@
                <lb/>N. 140
             </p>
             <p>
-               <lb/>Como en cumplim.to de la R.l Instruccion 
+               <lb/>Como en <choice><abbr>cumplim.to</abbr><expan>cumplim<ex>ien</ex>to</expan></choice> de la <choice><abbr>R.l</abbr><expan>R<ex>ea</ex>l</expan></choice> Instruccion 
                <lb/>de Intendentes de ese Reino deben cesar los 
                <lb/>corregidores y Alcaldes mayores que 
-               <lb/>hayan cumplido su tiempo y que alg.s 
+               <lb/>hayan cumplido su tiempo y que <choice><abbr>alg.s</abbr><expan>alg<ex>uno</ex>s</expan></choice> 
                <lb/>de ellos convendrá que continuen por 
                <lb/>ahora en calidad de subdelegados de 
-               <lb/>los Intendentes, prevengo a v.s. de orden 
+               <lb/>los Intendentes, prevengo a <choice><abbr>V.S.</abbr><expan>v<ex>uestra</ex> s<ex>eñoría</ex></expan></choice> de orden 
                <lb/>del Rey que con acuerdo del nuevo 
-               <lb/>Virrey D.n Manuel Antonio Florez 
-               <lb/>ó con el del M.R. Arzobispo si se re
+               <lb/>Virrey <choice><abbr>D.n</abbr><expan>D<ex>o</ex>n</expan></choice> Manuel Antonio Florez 
+               <lb/>ó con el del <choice><abbr>M.R.</abbr><expan>M<ex>uy </ex>R<ex>everendo</ex></expan></choice> Arzobispo si se re
                <lb break="no"/>tardase el arribo de aquel Gefe, dis
                <lb break="no"/>ponga que los Intendentes de Provincia 
                <lb/>que se vayan aposesionando de estos 
-               <lb/>empleos, subdeleguen en dhos corre
+               <lb/>empleos, subdeleguen en <choice><abbr>dhos</abbr><expan>d<ex>ic</ex>hos</expan></choice> corre
                <lb break="no"/>gidores y Alcaldes mayores que con
                <lb break="no"/>venga continuen en sus respectivos 
                <pb n="2"/>
