@@ -6,7 +6,7 @@ date: 2021 05 24
 
 ## Introducción
 
-La necesidad de la tipología. Se toma como base la tipología propuesta por José J. Real Díaz.[^1]
+La necesidad de la tipología. Se toma como base la tipología propuesta por José J. Real Díaz. [^1]
 
 ## Tipología general
 
