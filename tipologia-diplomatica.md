@@ -1,12 +1,28 @@
 ---
-title: Tipología diplomática
+title: Tipología diplomática CNHID
 author: Víctor Gayol
 date: 2021 05 24
 ---
 
 ## Introducción
 
-La necesidad de la tipología. Se toma como base la tipología propuesta por José J. Real Díaz. [^1]
+La necesidad de la tipología. Se toma como base la tipología propuesta por José J. Real Díaz.[^1]
+
+El espacio para el marcado de la tipología en `<teiHeader>`:
+
+```xml
+<classDecl>
+  <taxonomy xml:id="T-CNHDI">
+    <bibl>Tipología diplomática CNHID, 2021</bibl>
+    <!-- Definir el marcado en función del listado, por ejemplo, un auto acordado de la audiencia -->
+      <category = xml:id="auDel-RlProv">
+        <category = xml:id="AutAcord">
+          <catDesc>Auto Acordado</catDesc>
+        </category>
+      </category>
+  </taxonomy>  
+</classDecl>
+```
 
 ## Tipología general
 
