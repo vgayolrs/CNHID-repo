@@ -14,12 +14,15 @@
             financiación, responsable principal de la creación del texto
             electrónico y otra información sobre las personas responsables para
             distintos aspectos de la edición -->
-            <title>Título</title>
+            <title>CNHID00009</title>
             <funder>Patrocinio</funder>
             <principal>Nombre del investigador principal</principal>
             <respStmt>
                <resp>transcripción</resp>
-               <name>Nombre</name>
+               <name>
+                  <forename>Víctor</forename>
+                  <surname>Gayol</surname>
+               </name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -38,10 +41,13 @@
                   <country>México</country>
                   <settlement>CDMX</settlement>
                   <repository>Archivo General de la Nación</repository>
-                  <idno></idno>
+                  <idno>Reales Cédulas Originales, vol. 139, exp. 21, f.22r.</idno>
                </msIdentifier>
                <msContents>
-                  <summary></summary>
+                  <summary>Aprueba que no se había concedido la 
+                     subdelegación de Guayacocotla en la intendencia 
+                     de Puebla al teniente José Ma. Otero, porque dice 
+                     que los empleos son incompatibles con los militares.</summary>
                   <msItem>
                      <locus></locus>
                      <note></note>
@@ -58,8 +64,8 @@
                <history>
 					<!-- historia del documento -->
                   <origin>
-                     <origDate></origDate>
-                     <origPlace></origPlace>
+                     <origDate>16 de enero de 1788</origDate>
+                     <origPlace>El Pardo</origPlace>
                   </origin>
                </history>
             </msDesc>
@@ -105,7 +111,32 @@
       <body>
          <pb n=""/>
          <div>
-            <!-- Puede llevar <ab> para bloques o <p> para párrafos -->
+            <p>
+               <lb/>R. en 23 de Mayo
+            </p>
+            <p>
+               <lb/>N 15,, 21
+            </p>
+            <p>
+               <lb/>El Rey aprueba que ese Arzobispo, quando 
+               <lb/>era Gobernador del Reyno, no condescendiese 
+               <lb/>en que a d.n Josef Maria Otero teniente del 
+               <lb/>Regimiento de Dragones de Mexico sele nom
+               <lb break="no"/>brare subdelegado del Yntendente de Puebla d.n 
+               <lb/>Manuel Flon en el partido de Guayacotla, p.r 
+               <lb/>tener declarado S.M. ser estas comisiones in
+               <lb break="no"/>compatibles con los Empleos Militares de Cuer
+               <lb/>pos veteranos. Lo aviso a V.E. en contestacion 
+               <lb/>a una carta del citado Arzobispo de 26 de Julio
+               <lb/>ult.o n.o 129 en que dió cuenta de este asunto.
+               <lb/>Dios gūe á V.E. m.s a.s El Pardo 16 de Enero de 1788.
+            </p>
+            <p>
+               <lb/>Valdez
+            </p>
+            <p>
+               <lb/>Virrey de Mexico
+            </p>
          </div>
       </body>
   </text>
