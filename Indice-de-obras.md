@@ -23,6 +23,7 @@ sobre el estado:
 | CNHID00007 | Real ordenanza para el establecimiento e instrucción de intendentes... Río de la Plata | 1782 | MD | imgD OCR | 2018-10-20 | no | en proceso |
 | CNHID00008  | Real órden AGN-RCO-136-140 | 1787-03-28 | MD-CDMX | imgD-TrCop. | 2021-05-24 | no | en proceso |
 | CNHID00009  | Real cédula AGN-RCO-139-21 | 1788-01-16 | El Pardo | imgD-TrCop. | 2021-05-24 | no | en proceso |
+| CNHID00010  | Real cédula AGN-RCO-141-79 | 1788-10-07 | San Ildefonso | imgD-TrCop. | 2021-05-24 | no | en proceso |
 
 ## Identificación de siglas
 
