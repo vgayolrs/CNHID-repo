@@ -77,5 +77,6 @@ proyecto a corto y mediano plazo.
 
 ## Referencias
 
-Gayol, Víctor. *El costo del gobierno y la justicia. aranceles para tribunales, juzgados, oficinas de justicia, gobierno y real hacienda de la Corte de México y lugares foráneos (1699-1784)*. Colección Investigaciones. Zamora: El Colegio de Michoacán, 2017.
+Gayol, Víctor. *El costo del gobierno y la justicia. aranceles para tribunales, juzgados, oficinas de justicia, gobierno y real hacienda de la Corte de México y lugares foráneos (1699-1784)*. Colección Investigaciones. Zamora: El Colegio de Michoacán, 2017.  
+
 Gayol, Víctor. *Laberintos de justicia: procuradores, escribanos y oficiales de la Real Audiencia de México (1750-1812)*. Colección Investigaciones. Zamora, Michoacán: El Colegio de Michoacán, A.C, 2007.
