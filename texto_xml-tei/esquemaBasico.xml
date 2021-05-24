@@ -2,14 +2,13 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!-- Este esquema básico está tomado del proyecto CHART como punto de partida para establecer
-     un -->
+<!-- Este esquema básico parte del proyecto CHART con adecuaciones a CNHID -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
-  <!-- Contiene la descripción bibliográfica completa del archivo electrónico -->       
+  <!-- Contiene la descripción bibliográfica completa del archivo electrónico -->
          <titleStmt>
-            <!-- Información sobre el título de la obra y los responsables del 
+            <!-- Información sobre el título de la obra y los responsables del
             contenido -->
             <!-- En orden, a continuación: título de la obra, fuente de
             financiación, responsable principal de la creación del texto
@@ -60,7 +59,7 @@
                      <origDate></origDate>
                      <origPlace></origPlace>
                   </origin>
-               </history>               
+               </history>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -72,12 +71,12 @@
             <p></p>
          </editorialDecl>
          <classDecl>
-            <taxonomy xml:id="Tip-CH">
-               <bibl>Tipología CHARTA, 2014</bibl>
-               <!-- Grupo 1 / Textos legislativos -->
-               <category xml:id="tex-leg">
-                  <category xml:id="tex-leg-ord">
-                     <catDesc>Ordenanzas</catDesc>
+            <taxonomy xml:id="T-CNHID">
+               <bibl>Tipología diplomática CNHID, 2021</bibl>
+               <!-- Definir, a partir de la lista propuesta, un auto acordado de la Aduiencia de México -->
+               <category xml:id="auDel-RlProv">
+                  <category xml:id="AudMx-AutAcord">
+                     <catDesc>Auto Acordado de la Audiencia de México</catDesc>
                   </category>
                </category>
             </taxonomy>

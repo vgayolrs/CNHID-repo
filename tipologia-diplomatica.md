@@ -8,16 +8,16 @@ date: 2021 05 24
 
 La necesidad de la tipología. Se toma como base la tipología propuesta por José J. Real Díaz.[^1]
 
-El espacio para el marcado de la tipología en `<teiHeader>`:
+El espacio para el marcado de la tipología dentro del `<teiHeader>` se haría con el elemento `<classDecl>`
 
 ```xml
 <classDecl>
   <taxonomy xml:id="T-CNHDI">
     <bibl>Tipología diplomática CNHID, 2021</bibl>
-    <!-- Definir el marcado en función del listado, por ejemplo, un auto acordado de la audiencia -->
+    <!-- Definir el marcado en función del listado, por ejemplo, un auto acordado de la Audiencia de México -->
       <category = xml:id="auDel-RlProv">
-        <category = xml:id="AutAcord">
-          <catDesc>Auto Acordado</catDesc>
+        <category = xml:id="AudMx-AutAcord">
+          <catDesc>Auto Acordado de la Audiencia de México</catDesc>
         </category>
       </category>
   </taxonomy>  
