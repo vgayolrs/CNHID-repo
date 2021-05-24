@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<!-- Este esquema básico parte del proyecto CHART con adecuaciones a CNHID -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+  <!-- Contiene la descripción bibliográfica completa del archivo electrónico -->
+         <titleStmt>
+            <!-- Información sobre el título de la obra y los responsables del
+            contenido -->
+            <!-- En orden, a continuación: título de la obra, fuente de
+            financiación, responsable principal de la creación del texto
+            electrónico y otra información sobre las personas responsables para
+            distintos aspectos de la edición -->
+            <title>Título</title>
+            <funder>Patrocinio</funder>
+            <principal>Nombre del investigador principal</principal>
+            <respStmt>
+               <resp>transcripción</resp>
+               <name>Nombre</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <!-- Información sobre la entidad responsable de la publicación -->
+            <publisher>El Colegio de Michoacán, A.C.</publisher>
+            <pubPlace>Zamora, Michoacán</pubPlace>
+            <date>2021</date>
+            <idno></idno>
+            <distributor>El Colegio de Michoacán, A.C.</distributor>
+            <availability><licence>Creative Commons</licence></availability>
+         </publicationStmt>
+         <sourceDesc>
+            <!-- Información sobre la fuente para edición en formato digital -->
+            <msDesc>
+               <msIdentifier>
+                  <country>México</country>
+                  <settlement>CDMX</settlement>
+                  <repository>Archivo General de la Nación</repository>
+                  <idno></idno>
+               </msIdentifier>
+               <msContents>
+                  <summary></summary>
+                  <msItem>
+                     <locus></locus>
+                     <note></note>
+                  </msItem>
+               </msContents>
+							 <!-- estado físico del documento -->
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <condition></condition>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+							 <!-- historia del documento -->
+                  <origin>
+                     <origDate></origDate>
+                     <origPlace></origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+			<!-- descripción de la codificación -->
+         <projectDesc>
+            <p></p>
+         </projectDesc>
+         <editorialDecl>
+            <p></p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy xml:id="T-CNHID">
+               <bibl>Tipología diplomática CNHID, 2021</bibl>
+               <!-- Definir, a partir de la lista propuesta, un auto acordado de la Aduiencia de México -->
+               <category xml:id="auDel-RlProv">
+                  <category xml:id="AudMx-AutAcord">
+                     <catDesc>Auto Acordado de la Audiencia de México</catDesc>
+                  </category>
+               </category>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <!-- Información no bibliográfica sobre el texto, como las lenguas
+         utilizadas, el contexto de producción y los participantes en su
+         creación -->
+         <langUsage>
+            <language ident="es">español</language>
+         </langUsage>
+         <textClass>
+            <catRef/>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+      <!-- Información sobre las revisiones del archivo electrónico -->
+         <change when="2021-05-17">Creación del archivo</change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb n="1"/>
+         <div>
+            <!-- Puede llevar <ab> para bloques o <p> para párrafos -->           
+            <p>
+               <lb/>N. 140
+            </p>
+            <p>
+               <lb/>Como en cumplim.to de la R.l Instruccion 
+               <lb/>de Intendentes de ese Reino deben cesar los 
+               <lb/>corregidores y Alcaldes mayores que 
+               <lb/>hayan cumplido su tiempo y que alg.s 
+               <lb/>de ellos convendrá que continuen por 
+               <lb/>ahora en calidad de subdelegados de 
+               <lb/>los Intendentes, prevengo a v.s. de orden 
+               <lb/>del Rey que con acuerdo del nuevo 
+               <lb/>Virrey D.n Manuel Antonio Florez 
+               <lb/>ó con el del M.R. Arzobispo si se re
+               <lb break="no"/>tardase el arribo de aquel Gefe, dis
+               <lb break="no"/>ponga que los Intendentes de Provincia 
+               <lb/>que se vayan aposesionando de estos 
+               <lb/>empleos, subdeleguen en dhos corre
+               <lb break="no"/>gidores y Alcaldes mayores que con
+               <lb break="no"/>venga continuen en sus respectivos 
+               <pb n="2"/>
+               <lb/>destinos y que por su buen desempeño y 
+               <lb/>acreditada conducta merezcan esta distin
+               <lb break="no"/>guida confianza entendiendose con la 
+               <lb/>expresada calidad de por ahora y hasta 
+               <lb/>nueva disposición de S.M. quien tambien 
+               <lb/>autoriza á V.S. para que señale a dhos 
+               <lb/>subdelegados una moderada cantidad anu
+               <lb break="no"/>al por via de ayuda de costa y con el 
+               <lb/>mismo acuerdo del Gefe Superior de ese 
+               <lb/>Reino dando cuenta sucesivam.te de todo 
+               <lb/>para la soberana resolucion. Dios 
+               <lb/>guarde á V.S. m.s a.s Madrid 28 de Marzo 
+               <lb/>de 1787
+            </p>
+            <p>
+               <lb/>Sonora
+            </p>
+            <p>
+               <lb/>S.r D.n Fernando Josef Mangino
+            </p>
+         </div>
+         <pb n="3"/>
+         <div>
+            <p>
+               <lb/>México 3. de Julio de 1788.
+            </p>
+            <p>
+               <lb/>Pásese copia de esta Real Orden al S.or Fis
+               <lb/>cal de Real Haz.da paraque en razon de su 
+               <lb/>cumplimiento pida lo que se le ofreciere; ba
+               <lb/>jo la inteligencia de que solo podra tenerlo 
+               <lb/>en la parte de nombrar Subdelegados, pues 
+               <lb/>por la respectiva á asignacion de gratifica
+               <lb break="no"/>cion no debe hacerse novedad hasta obte
+               <lb break="no"/>ner resolucion de S.M. sobre lo que acer
+               <lb break="no"/>ca del particular le tengo representado.
+            </p>
+            <p>
+               <lb/>Fhãs. las | Florez
+               <lb/>copias 
+            </p>            
+         </div>
+      </body>
+  </text>
+</TEI>
