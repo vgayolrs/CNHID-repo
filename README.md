@@ -1,16 +1,16 @@
 # CNHID - corpus normativo hispano indiano digital
- 
+
 Este repositorio contiene los archivos de prueba para
-el desarrollo del proyecto de digitalización de textos jurídicos 
+el desarrollo del proyecto de digitalización de textos jurídicos
 normativos hispano-indianos que se hayan producido entre 1492 y 1821.
- 
-La finalidad es desarrollar un sistema de publicación de fuentes 
-normativas digitalizadas aprovechando la TEI y que facilite no sólo 
+
+La finalidad es desarrollar un sistema de publicación de fuentes
+normativas digitalizadas aprovechando la TEI y que facilite no sólo
 su publicación en línea sino que sirvan para el análisis de estos
 textos con herramientas digitales.
- 
+
 El proyecto se conecta con los trabajos de investigación de la Red de Estudios
 del Régimen de Subdelegaciones en la América Borbónica [RERSAB](http://www.rersab.org/)
 y parte de la reflexión y propuesta hecha por [Víctor Gayol](https://victorgayol.net/) y [Jairo A. Melo](http://jairomelo.com/)
 publicada en: Gayol, Víctor, y Jairo Antonio Melo Flórez.
-“Jurisdictional Culture and Memory Digitization of the ‘Government of Justice.’ Data Modeling and Digital Approach for the Legal History of Ibero-America”. *Culture & History Digital Journal* 7, núm. 2 (diciembre de 2018): 15. <https://doi.org//10.3989/chdj.2018.017>.
+“Jurisdictional Culture and Memory Digitization of the ‘Government of Justice.’ Data Modeling and Digital Approach for the Legal History of Ibero-America”. *Culture & History Digital Journal*. 7, núm. 2 (diciembre de 2018): 15. <https://doi.org//10.3989/chdj.2018.017>.
