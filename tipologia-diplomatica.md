@@ -6,7 +6,7 @@ date: 2021 05 24
 
 ## Introducción
 
-Uno de los puntos más importantes de la propuesta de marcado `TEI` es la posibilidad de establecer una taxonomía diplomática de los textos normativos editados; por una parte reales cédulas y, por la otra, las reales provisiones como ordenanzas, bandos, títulos, despachos o cualquiera que sea su naturaleza. Para elaborar la taxonomía se toma como base la tipología propuesta por José J. Real Díaz,[^1] con las adiciones que se consideren pertinentes.
+Uno de los puntos más importantes de la propuesta de marcado `TEI-CNHID` es la posibilidad de establecer una taxonomía diplomática de los textos normativos editados; por una parte reales cédulas y, por la otra, las reales provisiones como ordenanzas, bandos, títulos, despachos o cualquiera que sea su naturaleza. Para elaborar la taxonomía se toma como base la tipología propuesta por José J. Real Díaz,[^1] con las adiciones que se consideren pertinentes.
 
 El espacio para el marcado de la tipología dentro del `<teiHeader>` se haría con el elemento `<classDecl>`
 
