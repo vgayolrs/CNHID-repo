@@ -74,4 +74,4 @@ El espacio para el marcado de la tipología dentro del `<teiHeader>` se haría c
 * Ejecutorías en forma de pleito fenecido.
 
 
-[^1]: Real Díaz, José Joaquín autor. Estudio diplomático del documento indiano José Joaquín Real Díaz, 1970.
+[^1]: Real Díaz, José Joaquín autor. *Estudio diplomático del documento indiano*. Sevilla: CSIC, Escuela de Estudios Hispano-Americanos, 1970. [`.pdf`](https://digital.csic.es/handle/10261/66467)
