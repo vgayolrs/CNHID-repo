@@ -45,6 +45,7 @@ Fuente de digitalización y tipo de copia
 Publicación previa
 
 | siglas | descripción |
+|--------|-------------|
 | CGJ | Gayol, *El costo del gobierno...* |
 | LJ | Gayol, *Laberintos de justicia...* |
 
@@ -73,4 +74,3 @@ proyecto a corto y mediano plazo.
 * 1768 Ordenanza de libre comercio
 * 1776 Instrucción de regentes
 * 1803 Ordenanza general de intendentes
-
