@@ -17,6 +17,6 @@ transc: Víctor Gayol
 {19}S\<eñ\>or Virrey de Mexico
 
 {f 2r.}{1}Mexico 27 de Febrero de 1789.
-{2}Para el puntual cumplimiento de lo q\<u\>e S\<u\> M\<ajestad\> {3}se sirve mandar en esta Real orden trasladese {4}à los Sr\<eñor\>ês. Yntendentes del Distrito de este Vi{5}rreinato á la Real Audiencia, y a los Señores {6}Fiscales y Asesor g\<ener\>rãl., dandose cuenta a S\<u\> M\<ajestad\> {7}de esta providencia en contestacion.
+{2}Para el puntual cumplimiento de lo q\<u\>e S\<u\> M\<ajestad\> {3}se sirve mandar en esta Real orden trasladese {4}à los Sr\<eñor\>ês. Yntendentes del Distrito de este Vi{5}rreinato á la Real Audiencia, y a los Señores {6}Fiscales y Asesor g\<ene\>rãl., dandose cuenta a S\<u\> M\<ajestad\> {7}de esta providencia en contestacion.
 {8}Florez
 {9}F\<ec\>ho todo Antonio Bonilla
