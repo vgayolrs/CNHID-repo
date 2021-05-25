@@ -17,657 +17,337 @@ CON EXPRESION
 De las páginas donde éstos se hallan.
 
 Motivos que obligan al establecimiento de Intendentes en el Reino de la Nueva-España, y objetos de esta Real determinación........ pág. 1
-
 Número de Intendencias en que se ha de dividir el distrito de aquel Imperio: quál de éllas será la General de Ejército y Real Hacienda; y qué Ciudades han de ser sus Capitales: Artículo 1... 2
-
 Conocimiento de los negocios de la Real Hacienda: sepárase de las facultades del Virréi; y se encarga, con la Superintendencia de ella, al Intendente General, subordinándole los de Provincia: Artículo 2.......4
-
 Cúmplase y toma de razón de los Títulos de Intendentes: quiénes deben poner el primero; y en qué Oficinas se ha de ejecutar lo segundo: Artículo 3....... 5
-
 Superintendencia: que se entienda como delegada de la General de toda la América; y se determina una Junta Superior de Real Hacienda: los Vocales que han de componerla: el órden de sus asientos: el Escribano que ha de autorizar sus acuerdos; y el asiento que éste debe ocupar: Artículo 4.. 6
-
 Substitutos de los Vocales de la dicha Junta: quién lo ha de ser por cada uno de ellos: Artículo 5... 8
-
 Convocacion de la Junta Superior: en qué dias se ha de verificar: para qué asuntos, y su autoridad y jurisdiccion en ellos: Artículo 6.... 9
-
 Jurisdiccion y facultades que han de exercer los Intendentes en las quatro Causas de Justicia, Policía, Hacienda y Guerra; y subordinacion que en éllas han de reconocer: Artículo 7.... 10
-
 VicePatronato Real: quiénes le han de exercer en todas y cada una de las Intendencias, y en qué términos: Artículo 8.... 12
-
 Extincion de Corregimientos y Alcaldías Mayores: quáles, en qué forma y á qué tiempo se han de suprimir; y cómo deberá entenderse su exercicio entretanto: Artículo 9..... 3
-
 Gobiernos políticos y militares que quedan exîstentes: forma en que ha de continuarse su manejo; y subdelegacion que los Intendentes han de hacer en los sugetos que los sirvan, exceptuando los que se expresan: Artículo 10......... 15
-
 Jurisdiccion Real en los Corregimientos y Alcaldías Mayores extinguidos: recáe en los respectivos Intendentes, sin perjuicio de la que en Pueblos de Españoles corresponde á sus Alcaldes Ordinarios; y cómo se han de elegir y confirmar éstos: Artículo 11.... 16
-
 Jueces Subdelegados en las quatro Causas: en qué Pueblos se han de poner: quiénes los han de nombrar: en qué forma: baxo qué calidades; y penas con que se prohíben los repartimientos: Articulo 12......... 18
-
 Gobernadores, Alcaldes y demas Oficios de República que á los Indios permiten las Leyes: en qué términos, y con qué circunstancias se les conserva el derecho y costumbre de elegirlos donde la hubiese: Artículo 13..... 21
-
 Confirmacion de las dichas elecciones: quiénes, y cómo las han de executar: Artículo 14.... 22
-
 CAUSA DE JUSTICIA.
-
 Tenientes Asesores de los Intendentes: quién los ha de nombrar: jurisdiccion que deben exercer; y en qué casos han de suplir por los Intendentes: Artículo 15..... 23
-
 Falta á un mismo tiempo del Intendente General, ó de alguno de los de Provincia y su respectivo Asesor: quiénes han de suplir por úno y ótro; y en qué forma: Artículo 16..... 25
-
 Recayendo el exercicio de las funciones de Intendente en alguno de los Ministros Principales de Real Hacienda: cómo, y con qué circunstancias ha de nombrar éste quien le substituya en las obligaciones de su empléo propietario: Artículo 17..... 26
-
 Sueldos que deben gozar los Tenientes Asesores de los Intendentes: tiempo que han de servir su empléo; y cómo podrán ser suspendidos del exercio de él, ó removidos: Artículo 18..... 27
-
 Apelaciones de los autos ó sentencias que dieren los dichos Tenientes como Jueces Ordinarios: para qué Tribunal, y en qué forma deberán admitirlas; y cómo ha de procederse en caso de recusarlos las Partes aun como Asesores de los Intendentes: Artículo 19..... 28
-
 Presidencia de los Ayuntamientos de las Capitales: á quién corresponde: Artículo 20... 28
-
 Administracion de justicia, y buen gobierno de los Pueblos: qué Leyes han de observar y hacer cumplir para úno y otro así los Intendentes-Corregidores como sus Tenientes: Artículo 21..... 29
-
 Paz en los Pueblos: cómo, y por qué medios han de procurarla y mantenerla los Intendentes: Artículo 22.... 30
-
-
-
 Despacho de las causas y negocios en que conozcan los Intendentes y los Jueces subalternos: cómo han de cuidar los priméros de que no se moleste en ello á las Partes, ni se las lleven derechos indebidos: Artículo 23...... 31
-
 Jueces de Residencias, Comisiones ó Pesquisas: quál ha de ser su obligacion respecto de los Intendentes-Corregidores, y quáles los cuidados de éstos en tales casos: Artículo 24..... 31
-
 Visitas de los Pueblos: cómo, y con qué calidades han de permitirlas los Intendentes á los Corregidores y Alcaldes Mayores cuyos empléos se deban suprimir: Artículo 25..... 33
-
 Visitas de las Provincias por sus Intendentes: en qué estaciones, y con qué objetos han de estar perpetuamente obligados á executarlas: Artículo 26.... 34
-
 Las dichas Visitas: baxo qué calidades deben practicarlas los Intendentes; y cómo, y en qué caso podrán enviar Comisarios para que las executen: Artículo 27..... 35
-
 Propios y Arbitrios de las Ciudades y Villas de Españoles, y Bienes comunes de los Pueblos de Indios: á quién corresponderá la inspeccion y conocimiento privativo de únos y ótros: con qué jurisdiccion; y términos en que ha de subsistir la Contaduría General de dichos Ramos: Artículo 28. 35
-
 Medios de que ha de usar la Junta Superior para establecer una regla general en los Ramos de Propios y Arbitrios; y quién ha de hacer de su Secretario en todo lo respectivo á éllos: Artículo 29.... 37
-
 Asistencia del Contador General de Propios y Arbitrios á la Junta Superior como su Secretario por lo tocante á dichos Ramos: quién ha de substituirle quando la necesidad lo pida: en qué forma han de entrar uno y ótro á dicha Junta: qué asiento han de ocupar: tratamiento que debe dárseles; y voto que han de tener en las materias que se traten: Artículo 30.... 37
-
 Noticias que los Intendentes, luego que tomen posesión, deben pedir á todos los Pueblos acerca de los Propios y Arbitrios, ó Bienes de Comunidad que gocen: Artículo 31..... 39
-
 Extinción, ó prorogacion de los Arbitrios que gozaren los Pueblos: qué noticias han de tomar para lo úno ó lo ótro los Intendentes: Artículo 32..... 40
-
 Reglamentos interinos que los Intendentes han de formar y hacer poner en práctica para el manejo de los Propios y Arbitrios, ó Bienes comunes de cada Pueblo: su aprobacion por la Junta Superior; y cómo se ha de obtener la Real Confirmación: Artículo 33..... 41
-
 Reglamentos idem: cómo, y con qué distinciones se han de formar; y lo que podrán librar los Intendentes para gastos extraordinarios de cada Pueblo quando no les alcance lo señalado en aquéllos: Artículo 34.......... 42
-
 Reglamentos idem: qué se ha de executar con éllos, aprobados que sean por la Junta Superior: Artículo 35..... 44
-
 Juntas Municipales de Propios y Arbitrios: en qué Pueblos han de establecerse: quiénes han de componerlas; y quál será su autoridad: Artículo 36.... 44
-
 Juntas idem: cómo, y para qué fines han de asistir las de las Capitales de Provincia á los hacimientos y remates de los Propios y Abastos; y quál ha de ser en esta parte el cuidado de los Intendentes-Corregidores: Artículo 37.... 45
-
 Juntas idem: cómo han de hacer los Intendentes-Corregidores que las demás de sus Provincias cumplan lo mismo: Artículo 38...... 47
-
 Arrendamientos de ramos de Propios y Arbitrios: en qué caso, y de qué modo podrán las Juntas Municipales hacerlos por mas tiempo de un año, y sin exceder de cinco: Artículo 39... 47
-
 Mayordomo ó Depositario de Propios y Arbitrios: quiénes le han de nombrar en cada Pueblo: estipendio que debe gozar: quándo, y cómo se han de poner los caudales en Arca de tres llaves; y quiénes han de ser Claveros: Artículo 40... 48
-
 Cuenta anual de Propios y Arbitrios: cómo la ha de formar el Mayordomo ó Depositario; y por quáles documentos ha de arreglar su Cargo y Data: Artículo 41..... 49
-
 Presentacion de dicha cuenta: á quién se ha de hacer, y en qué tiempo: cómo se ha de exáminar: en qué forma se habrá de enterar el alcance si le hubiese; y qué curso se la ha de dar: Artículo 42.... 50
-
-Caudales sobrantes de Propios y Arbitrios: adónde, y en qué términos se han de remitir: cómose han de custodiar estos fondos ¡; y baxo qué formalidades, cuenta y razón se han de distribuir para los fines que se indican: Artículo 43.... 51
-
+Caudales sobrantes de Propios y Arbitrios: adónde, y en qué términos se han de remitir: cómo se han de custodiar estos fondos; y baxo qué formalidades, cuenta y razón se han de distribuir para los fines que se indican: Artículo 43.... 51
 Bienes de Comunidades: qué reglas han de adoptar para su direccion y manejo, cuenta, razón y custodia de sus productos, los Jueces Subdelegados en los Pueblos de Indios: Artículo 44.... 53
-
 Êxámen y fenecimiento de las Cuentas de Propios y Arbitrios, y de las de Bienes de Comunidades de Indios: por quién, y cómo se ha de executar úno y ótro: Artículo 45.... 54
-
 Extractos de las dichas cuentas: quándo, por quién, y en qué términos se han de formar: adónde se han de dirigir, y para qué fines; y en qué caso deberán remitirse originales las mismas cuentas á la Contaduría General de estos ramos: Artículo 46.... 55
-
 Aplicacion de los sobrantes de Propios y Arbitrios, y Bienes de Comunidades de Indios: á qué objetos se ha de verificar; y formalidades que para ello han de preceder: Artículo 47.... 56
-
 Arbitrios concedidos, y cuyo tiempo haya expirado, ú otros establecidos por los Pueblos: en qué casos, cómo, y por quién se podrá permitir su continuación: Artículo 48.... 57
-
 Expedientes de los Ramos de Propios y Arbitrios: qué orden se ha de observar para su instruccion y despacho, y para expedir las providencias gubernativas que dimanaren de ellos: Artículo 49.... 58
-
 Agravios por las providencias que se diesen sobre los mencionados Ramos: adónde, por qué medio, y en qué forma deberán dirigirse los recursos en su razón: Artículo 50.... 59
-
 Deduccion de 4 y 2 por 100 de los productos de dichos Ramos: cómo, y en dónde se ha de recaudar y custodiar lo que importen: en qué gastos se ha de invertir; y baxo qué formalidades: Artículo 51..... 59
-
 Cuenta anual de dicho fondo: quiénes, y cómo la han de formar y rendir: curso que se la ha de dar; y destino que ha de tener lo que por ella resulte sobrante: Artículo 52...... 61
-
 Estados Generales de los mencionados Ramos en cada Provincia, y de todo el Reino: qué noticias habrán de contener: quiénes los deberán autorizar: adonde, por quién, y en qué forma se han de remitir: Artículo 53..... 62
-
 Escribanos y Notarios en general: cómo, y con qué responsabilidad han de zelar los Intendentes-Corregidores que cumplan con todas las obligaciones de sus Oficios: Artículo 54...... 63
-
 Multas y penas pecuniarias que impongan las Justicias subalternas: quáles han de ser los cuidados de los Intendentes en razón de éllas; y correspondencia que han de seguir sobre este ramo: Artículo 55..... 64
-
 Informes á la Real Persona: en qué casos, y con qué circunstancias deberán los Intendentes hacerlos: Artículo 56..... 65
-
 CAUSA DE POLICÍA.
-
 Mapas Topográficos de las Provincias: quiénes han de hacerlos levantar: con qué circunstancias; y para qué fines: Artículo 57..... 65
-
 Instruccion que deben tomar los Intendentes del estado de sus Provincias: noticias que han de adquirir para que sea completa: por qué medios; y para qué fines: Artículo 58...... 66
-
 Ociosos y Malentretenidos: cómo se han de conducir los Intendentes para corregirlos y castigarlos: Artículo 59....... 68
-
 Vagamundos y Mendigos de profesión: destinos á que se han de aplicar según sus clases y circunstancias: Artículo 60...... 69
-
 Fomento del fruto de Grana, y de la siembra, cultivo y beneficio del Cáñamo y Lino: medios de que han de usar los Intendentes para excitar esta aplicacion en todas las castas de la Plebe; y forma en que para los mismos fines podrán repartirles tierras Realengas, ó de privado dominio: Artículo 61..... 70
-
 Algodón, y Seda silvestre: cómo se han de fomentar sus cosechas, y libertad de derechos que debe gozar la lana burda y fina, cáñamo y lino que se conduzcan á España: Artículo 62..... 72
-
 Agricultura, y siembras de granos: crias y matanzas de ganado: conservacion de los Montes y Bosques; y proteccion de la Industria, Minería y Comercio: quáles han de ser los conatos de los Intendentes acerca de estos objetos: Artículo 63..... 73
-
 Caminos públicos. Puentes y Calzadas: cómo sehan de conservar bien compuestos ó reparados; y lo que debe preceder para construir algúnos de nuevo: Artículo 64.... 74
-
 Caminos: Targeta que ha de ponerse donde se junten dos, ó mas, para gobierno de los Caminantes; y cómo se ha de restablecer el uso de las Carreterías: Artículo 65.... 75
-
 Ventas y Mesones: cómo se ha de poner en práctica lo dispuesto por Leyes para que haya únos ú ótras donde convenga: Artículo 66.... 76
-
 Seguridad en los caminos: quáles han de ser el cuidado y providencias de los Intendentes-Corregidores para que la tengan los traficantes: Artículo 67.. 77
-
 Limpieza, ornato y uniformidad en las calles y edificios de los Pueblos: por qué medios lo deben procurar y conseguir los Intendentes: Artículo 68	78
-
 Buen órden de las casas particulares en todos los Pueblos así de Indios como de Españoles: reparos de sus Edificios públicos; y circunvalacion de las Capitales: Artículo 69.... 79
-
 Construccion de nuevos Templos y Edificios públicos, y reparo de las antiguas Iglesias: cómo se ha de proveer á la mejor conservacion de éstas, y á que en aquéllos se verifique la mayor perfección: Artículo 70..... 80
-
 Partes que deben dar los Intendentes á los Gefes que se expresan de la escasez ó abundancia, y precios corrientes de los frutos de sus Provincias; y para qué fin: Artículo 71.... 82
-
 Pósitos: quáles han de ser los cuidados de los Intendentes-Corregidores en razón de éllos: Artículo 72......... 82
-
 Alhóndigas: qué ha de practicarse para establecerlas en Ciudades y Villas principales, y para que se conserven las que ya lo estuviesen: Artículo 73...... 83
-
 Monedas de oro y plata: cómo se ha de zelar que no se cercenen ó falsifiquen, ni se vicie la lei de estos metales: Artículo 74....... 85
-
 CAUSA DE HACIENDA.
-
 Que se observen en lo respectivo á esta Causa las siguientes reglas: Artículo 75....... 86
-
 Autoridad y jurisdiccion de los Intendentes en la direccion y administracion por mayor de la Real Hacienda: quáles se dexan á los Ministros de ella Contadores y Tesoreros en su recaudacion y administracion por menor; y con qué seguridades y subordinación: Artículo 76..... 86
-
 Poblaciones en que los Intendentes han de tener Subdelegados para sólo lo contencioso en las dos Causas de Hacienda y Guerra, y en ésto hasta qué términos: quiénes lo podrán ser, y quiénes nó: Artículo 77...... 88
-
 Jurisdiccion contenciosa en negocios de Real Hacienda: á quién toca privativamente su exercicio; y para dónde han de admitirse las apelaciones en primeras y segundas instancias: Artículo 78..... 90
-
 Jurisdiccion que han de exercer los Intendentes en todo lo contencioso de las Rentas de Tabaco, Alcabalas, Pulques, Pólvora y Naipes; y auxilios que deberán prestar en lo gubernativo y económico de ellas: Artículo 79..... 91
-
 Causas de fraudes contra alguna Renta Real: qué reglas se han de observar para substanciarlas y sentenciarlas, y para aplicar los comisos y condenaciones: Artículo 80....... 92
-
 Ventas, composiciones y repartimientos de tierras: con qué jurisdiccion y facultades han de conocer los Intendentes de esta materia: con quáles lo ha de hacer la Junta Superior; y por qué reglas se han de gobernar: Artículo 81..... 93
-
 Bienes confiscados: en qué caso, con qué jurisdiccion, y en qué forma han de conocer de éllos los Intendentes: Artículo 82...... 95
-
 Casos de presas, naufragios, arribadas y bienes vacantes: en qué modo han de conocer y proceder en éllos los Intendentes: Artículo 83..... 96
-
 Cumplimiento de las Reales Cédulas, Títulos ú Órdenes que se expidan á favor de Ministros de las Rentas: quién debe darlo, y hacer que á todos los empleados en ellas se les guarden las prerogativas y exénciones que les correspondan: Artículo 84.... 96
-
 Competencias en asuntos relativos á las Causas de Hacienda y Guerra: quién deberá decidirlas siendo entre algún Intendente y qualquiera de los otros Tribunales; y quién si fuese entre alguno de éstos y la Junta Superior: Artículo 85....... 97
-
 Fuero: quál han de gozar los Intendentes y sus Familias en sus causas civiles y criminales: quién deberá conocer en únas y ótras, en sus Testamentos, y en las apelaciones sobre éstos y aquéllas, exceptuando los casos que se indican: Artículo 86..... 99
-
 Extension del mismo Fuero á favor de los Gefes y demas empleados actuales, y jubilados con sueldo, en las Contadurías y Tesorerías General y Principales: quiénes han de ser sus Jueces privativos: á qué Tribunal deben tener las apelaciones; y modo de cortar las competencias: Artículo 87..... 100
-
 Fuero que han de gozar los demas Ministros y Subalternos de Rentas Reales según y en los casos que se distinguen: quiénes han de conocer de éllos; y á qué Tribunales corresponden las apelaciones: Artículo 88.... 102
-
 Casos en que los Dependientes de Rentas hayan de declarar, ó ratificar sus declaraciones ante Real Hacienda de la Tesorería General, y los de cada una de las Principales, con prohibicion de emolumentos y gratificaciones; y los que han de tener los de las Tesorerías Foráneas miéntras se les arreglen según se ordena: Artículo 99..... 119
-
 Mancomunidad de obligaciones de los Ministros de Real Hacienda Contadores y Tesoreros en la administración, recaudación, custodia, distribucion y cuenta de caudales: Artículo 100..... 121
-
 Libranzas de los Ministros de Real Hacienda: prohíbese que las formen para los pagos que se deban hacer en las Tesorerías de su cargo: Artículo 101..... 122
-
 Prohibicion de librar en caudales de Real Hacienda sin especial orden del Rei: quál es en este punto la obligacion de los Ministros de ella: quál la de la Contaduría de Cuentas; y qué casos serán exceptuados: Artículo 102..... 123
-
 Pagamentos resueltos por el Rei: qué formalidades han de preceder por una vez para executarlos; y cómo se han de continuar por las Tesorerías en que se consignasen los que deban ser permanentes: Artículo 103...... 124
-
 Pagamentos de gastos extraordinarios por Acuerdos de la Junta Superior de Real Hacienda: cómo han de dirigirse éstos á las Tesorerías,y cumplirse por ellas: Artículo 104..... 125
-
 Gastos extraordinarios en cada Intendencia: cómo se han de acordar en Junta de Real Hacienda: dónde ha de formarse ésta: quiénes han de componerla: y cómo se han de consultar aquéllos á la Junta Superior: Artículo 105..... 126
-
 Dudas que. ocurran á los Ministros de Real  Hacienda sobre pagamentos: cómo las han de proponer y consultar á los respectivos Intendentes, y éstos á la Junta Superior; y cuya será la responsabilidad de lo que en tales casos se resuelva: Artículo 106........... 127
-
 Suspensiones de pagos corrientes: cómo deberán ordenarlas el Superintendente Subdelegado, ó los Intendentes, quando haya motivo justo: Artículo 107.... 128.
-
 Traslacion de caudales de unas Tesorerías á ótras: quiénes las podrán ordenar general y particularmente; y cómo justificarán los Ministros respectivos el envío y el recibo: Artículo 108..... 129
-
 Libro de la Razón general de la Real Hacienda: quién ha de hacer formar el respectivo á cada Provincia: en qué conformidad, y para qué fines: por quién se han de reunir los de tódas en uno General por triplicado; y con qué destinos: Artículo 109... 130
-
 Libro idem: qué Ramos debe comprehender en la clase de los de ingreso: Artículo 110..... 132
-
 Libro idem: en qué forma, y con qué especificacion ha de dar una exácta y radical noticia de cada uno de los Ramos de ingreso: Articulo 111.... 133
-
 Libro idem: qué noticias debe contener respectivas á los bienes raíces propios del Real Patrimonio: Artículo 112..... 134
-
 Libro idem: en qué clases se han de dividir los gastos fixos de que ha de hacer expresión: á qué monedas, y por qué reglas se han de reducir los valores de las antiguas de que tal vez se trate: qué noticia deberá también dar del número, calidad y dotaciones de empléos; y en qué modo seha de formar el Índice que habrá de tener: Artículo 113..... 134
-
 Libro idem: en qué casos se deberán poner Notas en él: con qué requisitos; y para qué fines: Artículo 114..... 136
-
 Conocimientos que los Intendentes han de tomar de todas las Rentas y Derechos de la Real Hacienda: por qué medios, y para qué fines: quién ha de ser Presidente del Tribunal de la Contaduría de Cuentas; y con qué facultades: Artículo 115.... 137
-
 Ramos administrados: cómo han de vigilar los Intendentes sobre su justa recaudacion y aumentos, y sobre la conducta de los Ministros y Subalternos encargados de ellos, para contener y castigar á los que convenga. Artículo 116.... 138
-
 Ramos arrendados: quál debe ser el cuidado de los Intendentes para evitar las demasías y violencias de los Arrendadores; y qué medios se deben usar para redimir á los Pueblos de éstos y otros daños: Artículo 117.... 139
-
 Enteros en las Tesorerías: con qué esmero, y por qué medios deben cuidar los Intendentes de que por los Administradores y Recaudadores se cumplan á los plazos señalados: Artículo 118.... 140
-
 Executores: por qué motivos deberá evitarse que se despachen sino en casos mui precisos, y entónces con moderados salarios, y uno por todos débitos; pero guardando los privilegios de los Indios, y á los Labradores los meses de moratoria que les está concedida por punto general: Artículo 119..... 141
-
 Repartimientos en Pueblos encabezados, y administracion de los Puestos públicos: quáles han de ser los cuidados de los Intendentes acerca de únos y ótros: Artículo 120.... 142
-
 Agravios en los dichos Repartimientos: cómo han de proceder los Intendentes á su remedio: Artículo 121.... 143
-
 Prohibicion de incluir en los Repartimientos mas que lo líquido de la contribución, y el tanto por ciento asignado á las Justicias ó Cobradores: Artículo 122.... 143
-
 Apremios en caso de descubiertos: contra quién se han de despachar; y qué avisos deben anticiparse: Artículo 123.... 144
-
 Atrasos ó descubiertos por imposibilidad de los Pueblos: cómo se ha de averiguar la causa, para que se les puedan conceder esperas: Artículo 124.. 145
-
 Derechos obscurecidos ó usurpados:cómo se han de aclarar y recobrar, si los Intendentes descubrieren algunos: Artículo 125.... 146
-
 Contaduría General de Reales Tributos establecida en México: con qué título y facultades ha de subsistir y con qué consideraciones se ha de reducir el número de sus Plazas, y arreglar sus dotaciones: Artículo 126.... 146
-
 Enteros de Reales Tributos: cómo los han de verificar los Corregidores y Alcaldes Mayores miéntras permanezcan en sus empléos después de establecidas las Intendencias: Artículo 127.... 148
-
 Fianzas de los Ministros de Real Hacienda Contadores y Tesoreros: cómo, y con qué proporcion deberán engrosarlas respectivamente: Artículo 128.. 149
-
 Cobranza de Reales Tributos, y su entero en las Tesorerías extinguidos los Corregidores y Alcaldes Mayores: quiénes deberán executar úna y ótro: en qué plazas; y con qué responsabilidad y fianzas. Artículo 129....... 150
-
 Cobranza y recaudacion de Reales Tributos: baxo qué reglas se han de executar: cómo se ha de proveer á los sugetos que deben observarlas de los documentos que las prescriben; y declaracion de las que de éllas tocan á cada uno: Artículo 130.... 152
-
 Instruccion que los Intendentes deben tomar del actual manejo del Ramo de Reales Tributos, y de su último estado de valores, alcances y débitos, para proveer á su cobranza y recaudación: Artículo 131.... 153
-
 Premio á los Exâctores y Recaudadores de Reales Tributos: quál ha de ser: cómo se ha de repartir entre éllos; y dónde deben únos y otros hacer los enteros: Artículo 132..... 155
-
 Padrones de todos los habitantes de cada Provincia, y Visitas para la numeracion y cuentas de Tributarios: quién ha de hacer formar los priméros: quién deberá executar las segúndas, y con qué intermedios; y qué Castas han dé distinguirse en ellas,y contribuir la respectiva quota: Artículo 133. 156
-
 Instruccion para el modo de actuar los Autos de las Visitas, numeracion, Padrones y Tasas de Tributarios: quién ha de formarla, y sobre qué antecedentes: cómo se ha de poner en práctica; y quáles reglas han de observarse entretanto: Artículo 134.... 157
-
 Testimonios que de las nuevas Cuentas y Tasas de Tributarios de cada Partido han de pasarse á los Ministros de Real Hacienda, y á los obligados á la cobranza: uso que de éllos han de hacer únos y ótros, sin perjuicio de las alteraciones que puedan recibir las mismas Cuentas en su aprobación; y á quién se comete ésta privativamente: Artículo 135..... 159
-
 Liquidacion del legítimo número de Tributarios contribuyentes que en cada Cabecera resulten por las nuevas Matrículas, y su cotejo con la de las anteriores: quién ha de hacerla: con qué distinciones; y qué trámites deberá correr hasta librarse el correspondiente Despacho de tasación: Artículo 136.... 161
-
 Exêquacion del Tributo y Servicio Real: quotas que para élla se han de fixar á las Castas tributarias: edades y estados en que deben contribuirlas; y á quiénes se ha de exceptuar: Artículo 137. 163
-
 Vagos, y otros dispersos de clase tributaria: cómo se ha de procurar que contribuyan la respectiva quota: Artículo 138.... 164
-
 Exêncion del Tributo concedida á los Pardos libres que sirvan en las Milicias: cómo, y para qué Cuerpos se debe entender: Artículo 139... 165
-
-Cargo de debido cobrar á los Recaudadores de Tributos: por qué tiempo y número de Tributarios se les ha de formar: qué rebaxas se han de omitir: cómo se les han de compensar; y en qué ca
-sos tendrán lugar las Revisitas y Retasas: Artículo 140..... 165
-
+Cargo de debido cobrar á los Recaudadores de Tributos: por qué tiempo y número de Tributarios se les ha de formar: qué rebaxas se han de omitir: cómo se les han de compensar; y en qué casos tendrán lugar las Revisitas y Retasas: Artículo 140..... 165
 Esperas para la paga de Tributos: quién las ha de conceder en los casos que se expresan, y en qué forma; y aun quando las causas que concurran exijan rebaja de éllos, ó total relevación, á quién quedan reservadas estas gracias: Artículo 141. 167
-
 Cesiones y traspasos de bienes en fraude del derecho de la Alcabala: cómo se han de zelar y precaver: Artículo 142.... 168
-
 Bienes que recaigan en manos muertas, y sus frutos: á qué contribuciones han de quedar sujetos únos y ótros; y baxo qué calidades: Artículo 143.... 170
-
 Recaudacion de las Alcabalas: por qué medio se ha de verificar en todo el Reino: y á qué objetos han de dirigir los Intendentes sus conatos y providencias sobre este ramo: Artículo 144.... 172
-
 Administradores de Alcabalas y demas Rentas Reales: quáles han de ser su autoridad y facultades; y en qué casos podrán los Intendentes subdelegarles la jurisdiccion contenciosa de Hacienda, y con qué limitacion: exceptúase de élla al Administrador General de la Aduana de México, declarando sus facultades y jurisdicción, y las apelaciones de sus sentencias: Artículo 145.... 173
-
 Pulque: en qué parages se ha de continuar su administración: á quáles otros se ha de extender, y con qué objetos: qué disposiciones se han de poner en práctica para conseguirlos, y extinguir, además ciertos brebages perniciosos: Artículo 146... 175
-
 Motivo por qué se pasa á explicar en varios de los Artículos siguientes las Soberanas intenciones en quanto á cada uno de los demas Ramos que componen el Real Erario en la Nueva-España: Artículo 147.... 176
-
 Estanco y Fábrica de la Pólvora: en qué términos han de continuar: qué Ordenanza se ha de observar para éllo: quáles han de ser los cuidados de los Intendentes, Justicias ordinarias y Resguardos, acerca de esta Renta; y quál la Jurisdiccion en ella de los priméros: Artículo 148... 177
-
 Estanco de Naipes: cómo ha de continuar en administración: quién tendrá el exercicio de la Jurisdiccion contenciosa en esta Renta: á quáles otras, y en dónde han de correr agregados su gobierno directivo y económico: en qué forma han de seguir unidos los respectivos Resguardos y con qué obligaciones: Artículo 149.... 178
-
 Real derecho de Quintos del Oro, Plato y de mas metales: á quánto se halla reducido: qué otras gracias están concedidas para fomento de la Minería: cómo han de protegerla los Intendentes, y zelar la observancia de quanto disponen sus Ordenanzas: Artículo 150	179
-
 Presidencia de los Juzgados de Alzadas de la Minería: á quiénes corresponde en cada Provincia, y en los parages distantes de sus Capitales: con qué facultades; y quiénes han de substituir en su ausencia, enfermedad ó falta: Artículo 151... 181
-
 Rescates de Oro y Plata en pasta: en qué forma se han de hacer por cuenta de la Real Hacienda, y con qué objeto: cómo, y para qué fines se deben incorporar á la Corona los Oficios de Ensayador y Fundidor donde no estuviese hecho: en qué sugetos, y con qué formalidades se han de proveer estos empléos: Artículo 152.... 183
-
 Direccion, administracion y recaudacion de los Ramos de Azogue, Papel Sellado. Medias-anatas y Lanzas: en qué términos se han de reunir al Cuerpo general de la administracion de los demas de la Real Hacienda, con extincion de sus Jueces Comisarios privativos: Artículo 153... 184
-
 Azogues: á cargo de quién ha de correr el recibo de los que se conduzcan á aquel Reino, y el llevar la cuenta de este ramo: intervencion en él de su Contaduría General: baxo qué arreglo ha de subsistir ésta: quiénes, y por qué medios deben cuidar de que las Provincias estén suficientemente provistas de este ingrediente para que no falte un abundante repuesto en los Almacenes respectivos: Artículo 154..... 185
-
 Ramo de Azogues: Instruccion que para su peculiar régimen y gobierno se debe formar: quién, sobre qué antecedentes, y con qué audiencias la ha de extender; y lo que ha de executarse para su êxámen, práctica interina, y Real aprobación: Artículo 155.... 187
-
 Ramo del Papel Sellado: á cargo de quiénes ha de correr su administracion y recaudacion: al de quiénes su expendio; y con qué seguridades y premio: quién cuidará de su direccion en lo general, y del surtimiento de las Provincias: quién podrá habilitar el Papel común, cómo, y en qué caso; y en qué modo se ha de extinguir é incorporar á la Corona el Oficio de Tesorero de esta Renta: Artículo 156.... 188
-
 Instruccion y Ordenanza que se ha de formar para el manejo del dicho ramo de Papel Sellado, y para proporcionar las noticias conducentes á arreglar los envíos en cada bienio: Artículo 157... 192
-
 Lanzas, y Medias-anatas: en quiénes han de recaher sus privativos Juzgados: cómo ha de subsistir su particular Contaduría; y por qué reglas se han de dirigir y gobernar ésta y aquéllos en su manejo: Artículo 158... 193
-
 Salinas: de quáles, y en qué forma se ha de dexar á los Indios su libre uso; y cómo se han de administrar las demás por cuenta de la Real Hacienda: Artículo 159... 194
-
 Pulperías de composicion y Ordenanza: quién ha de señalar el número de éstas, y dar las Licencias para aquéllas, fixando y haciendo afianzar la quota que deban pagar: Artículo 160... 195
-
 Quándo, por quién, y cómo se han de mandar cerrar las Pulperías de composicion: su exêncion de contribuciones municipales, y ótras: en qué cosas estarán sujetas á los Ayuntamientos; y casos en que se deben renovar las licencias con que se abrieron: Artículo 161... 197
-
 Oficios vendibles y renunciables: qué reglas deberán regir en los casos de ventas, renuncias y caducidad: cómo se ha de proceder á sus remates, y á la expedicion de los Títulos; y qué órden se ha de guardar para obtener la Real confirmacion: Artículo 16... 199
-
 Cómo se ha de entender y cumplir respecto de los Oficios vendibles y renunciables del distrito de la Comandancia-General de las Fronteras lo que se ha ordenado en el Artículo anterior; y cómo en lo general la expresa derogacion de la Real Cédula que se cita: Artículo 163... 201
-
 Junta de Almonedas: de quiénes se ha de componer en la Capital de México, y en cada una de las demas de Provincia: cómo ha de proceder en sus funciones: órden que sus Vocales han de guardar en los asientos; y dónde se ha de celebrar: Artículo 164... 202
-
 Ramo de Bulas de la Santa Cruzada: baxo qué método, reglas y seguridades ha de continuar su administracion: en qué modo han de cesar sus Tesoreros donde los hai; y en quiénes deben recaher sus cuidados y funciones: Artículo 165... 204
-
 Causas temporales de Cruzada: que haya en ellas dos instancias: quién ha de conocer en la primera, y quién en la segunda: para dónde deberán ser las apelaciones de ésta; y declaracion de la Superintendencia de dicho Ramo: Artículo 166... 207
-
 Ordenanza para la administracion y manejo del dicho ramo de la Santa Bula: quién ha de formarla: cómo, y sobre qué antecedentes: su aprobacion y práctica interinas, y en qué forma se ha de pasar á la del Rei: Artículo 167... 208
-
 Diezmos: su pertenencia á la Corona, y con qué calidades y obligaciones: motivos por qué corresponde á la autoridad Real intervenir y zelar la buena direccion, administracion, y repartimiento de sus productos en los Partícipes; y en qué Artículos se prescriben las reglas que se han de observar para precaver en ello todo perjuicio: Artículo 168... 210
-
 Junta de Diezmos: en qué Ciudades se ha de formar: y quiénes la han de componer en cada Diócesi segun las distintas circunstancias: Artículo 169... 213
-
 Orden que han de guardar en sus asientos y firmas los Vocales de la dicha Junta: y quiénes han de substituirlos en ausencias ó enfermedades: Artículo 170... 214
-
 Voto en la expresada Junta de Diezmos: de qué clase le ha de tener cada concurrente; y quién substituirá por el Contador Real quando no pueda asistir: Artículo 171... 216
-
 Jurisdiccion de la mencionada Junta: quál es su clase y naturaleza: y á qué conocimientos se ha de entender ceñida: Artículo 172... 216
-
 Jurisdiccion de los Jueces Hacedores: modo y medios de exercerla conforme á su verdadera naturaleza; y adónde corresponden las apelaciones de sus providencias: Artículo 173... 217
-
 Escribano Real que ha de actuar en los negocios de Diezmos: á quién toca su eleccion y nombramiento; y qué derechos ha de percibir, sin otra asignación: Artículo 174... 219
-
 Despachos para habilitar á los Arrendadores de Diezmos, y Recudimientos para los Reales Novenos: por quiénes, y cómo se han de librar é intervenir: Artículo 175... 220
-
 Remate de Diezmos: prohíbese en personas Eclesiásticas; pero nó su administracion baxo de fianzas: cómo han de proceder los Jueces Hacedores quando sea preciso hacerlo contra algún Eclesiástico Secular ó Regular; y delegacion y facultades que para tales casos deberán obtener: Artículo 176... 221
-
 Administradores de Diezmos: á quién toca su nominación, y el señalamiento del estipendio que hayan de gozar; y á quién, y en qué forma el despacho de sus Títulos: Artículo 177... 222
-
 Cuentas de Diezmos, y de la Casa-Excusada: en qué términos las han de llevar y dar los Administradores respectivos; y quién las ha de exâminar y aprobar: Artículo 178... 223
-
 Obligacion de los Arrendadores de Diezmos y Casa-Excusada de llevar y presentar cuenta en la misma forma que los Administradores: Libro que para ello se ha de dar á los únos y á los ótros; y con qué formalidades: Artículo 179... 224
-
 Cuentas que rindan los Administradores y Arrendadores de Diezmos: á qué fines deben servir únas y ótras; y dónde se han de archivar: Artículo 180... 225
-
 Fianzas de Administradores y Arrendadores de Diezmos: quiénes las han de reconocer y aprobar, según los casos; y cómo nó se ha de retardar la percepcion por los Ministros de Real Hacienda de lo tocante á Reales Novenos en el producto de los Diezmos administrados: Artículo 181... 226
-
 Contaduría de Diezmos: qué negocios ha de despachar: papeles que se deberán archivar y custodiar en ella; y quáles han de quedar en el Protocolo del Escribano de este Ramo: Artículo 182. 228
-
 Segunda Casa-Excusada: en qué consiste: quál es el destino de su producto: dónde se ha de dar la cuenta de él; y á quién la de su distribución, y de los demas fondos pertenecientes á la Fábrica de cada Iglesia: Artículo 183... 229
-
 Hacimientos y remates de Diezmos en las Diócesis donde no fueren suficientes para la dotacion de las respectivas Iglesias: por qué Junta se han de practicar: en qué términos, y por quién se ha de hacer la cobranza de sus productos; y quándo, y en qué forma se ha de dexar al Prelado y Cabildo la administracion de la parte que les corresponda: Artículo 184... 233
-
 Distribucion de Diezmos entre los Partícipes: que para verificarlo conforme en tódo á lo dispuesto por las Leyes y por las Erecciones de las Iglesias, y cortar los abusos introducidos, se observe, cumpla y execute en lo sucesivo quanto se contiene en los Artículos que se expresan: Artículo 185... 235
-
 Casa-Excusada: en qué forma se ha de sacar: quién deberá elegirla: qué circunstancias han de concurrir en la que haya de ser preferida; y con qué separacion se ha de recaudar este Ramo: Artículo 186... 237
-
 Quartas Episcopal y Capitular, y Reales Novenos: de qué monton ó gruesa de los Diezmos se han de sacar las priméras; y de qué porcion de élla se han de deducir los segúndos: de qué contribucion y gastos estarán exêntos los dichos Reales Novenos: quáles de los últimos han de sufrir, y en qué casos; y en quál deberán pagar lo correspondiente por almacenage y cuidado: Artículo 187.. 237
-
 Noveno y medio para las Fábricas de las Iglesias: cómo debe entenderse y deducirse el que pertenece á la de la Catedral de cada Diócesi, y cómo el que corresponde á cada una de las demas Parroquias de ella; y qué debe practicarse con sus productos donde no se halle en observancia, hasta tanto que para verificarla se pueda executar lo que se previene: Artículo 188... 239
-
 Noveno y medio para Hospitales: qué noticias se necesitan, y quiénes deben facilitarlas, para acordar lo que convenga á fin de que se dé á sus productos la debida inversion en tan recomendable objeto: Artículo 189... 240
-
 Quatro Novenos Beneficiales: cómo deben precisamente distribuirse sus productos: qué se ha de executar con ellos donde aquéllo no se cumpla, yá sea por lo respectivo á la Parroquia de la Catedral, yá por lo perteneciente á las de las Ciudades y Villas Cabeceras; ó yá por lo tocante á las demas de cada Diócesi; y qué informes deben preceder para arreglar en su todo este particular: Artículo 190... 241
-
 Gastos generales en la recaudacion y administracion de Diezmos: quáles se han de tener por legítimos en dicha clase, y quáles nó; y éstos á qué ramo han de cargarse: quáles de los Partícipes han de sufrir también la parte que les quepa de los priméros; y quál ha de estar exênto de qualesquiera otra contribucion: Artículo 191... 243
-
 Administracion ó arrendamiento de Diezmos: con qué separacion se han de verificar en cada Diócesi, y para qué fines: Artículo 192... 245
-
 Reales Novenos: quiénes deben cobrarlos: cómo, y baxo de qué jurisdiccion, tanto en casos de arrendamiento de los Diezmos, quanto en los de su administracion: Artículo 193... 246
-
 Contadores Reales de Diezmos: á quién toca proponerlos, y á quién nombrarlos; y cómo se ha de proceder en lo úno y lo ótro para el acierto: Artículo 194... 248
-
 Que tengan el debido exercicio en todas las Provincias en que ha de gobernar esta Ordenanza las declaraciones contenidas en los Artículos que se enuncian: Artículo 195... 250
-
 Oficiales Subalternos de las Contadurías de Diezmos: cómo,y con qué calidad han de continuar los que al recibo de la Cédula que se cita se hallaban puestos por los Cabildos de las Iglesias; y cómo se han de elegir en adelante, y entregarse á los Contadores Reales por sus antecesores la Contaduría y Papeles de este Ramo: Artículo 196. 250
-
 Contadores Reales de Diezmos: cómo podrán ser removidos; y quál debe ser su subordinacion á los Cabildos y Jueces Hacedores, y la qué, igual mente que sus Oficiales, han de tener á los Intendentes y Ministros de Real Hacienda: Artículo 197. 252
-
 Contadores idem: quáles serán sus obligaciones en el caso de que las Iglesias quieran dexar á su cargo la cuenta y distribucion de la obvencional: sobre qué fondo deberá asignarse el salario que los Cabildos señalaren á aquellos que de lo contrario nombraren para el propio fin; y qué sujecion han de tener á dichos Cuerpos los unos y los otros Contadores en su caso: Artículo 198... 253
-
 Derogacion de lo que acerca de la presentación, glosa y liquidacion de las Cuentas de Diezmos, Obvenciones y Proventos, se mandó en la Real Cédula que se cita: consideraciones que la motivan; y encargos sobre su observancia, y de lo que prescriben los Artículos que se citan: Artículo 199... 254
-
 Quadrantes de Diezmos: en qué conformidad los han de formar los Contadores Reales: á quién deben presentarlos, y para qué fines: dónde se han de archivar: quántos exemplares de cada úno han de pasarse á los Intendentes respectivos: qué destinos deben éstos darles; y con qué objetos: Artículo 200... 257
-
 Documento que á los Contadores Reales de Diezmos deberán pasar los que pueden nombrar los Cabildos para lo obvencional, á fin de que en tal caso tengan aquéllos las noticias conducentes á formar los Quadrantes según va dispuesto; y cómo los Intendentes han de hacer que lo cumplan los tales Contadores aun quando sean Eclesiásticos: Artículo 201... 259
-
 Cómo, y por qué medios se han de depurar los legítimos valores de lo obvencional quando en los que manifestaren los Quadrantes se reconozca vicio notable: Artículo 202... 261
-
 Nombramiento de Jueces Hacedores: en qué forma, por qué tiempo, y con qué alternativa le han de hacer los Prelados y Cabildos: en qué cla se de sugetos debe recaher el de ámbos: en qué caso los podrán reelegir: dónde deberán presentar sus nombramientos, y para qué fines: Artículo 203.. 263
-
 Vacantes mayores y menores: su pertenencia con dominio pleno é irrevocable: objetos á que se deben aplicar sus productos: quiénes han de recaudarlos, en qué forma, y con qué separacion se deben llevar sus cuentas: término en que se causa el adeudo en únas y ótras; y su limitacion á sólo lo que las toque de la Gruesa decimal: Artículo 204... 266
-
 Vacantes de Curatos, Doctrinas, y Sacristías Mayores que gocen rentas en las decimales: qué se debe executar con los productos que correspondiesen á cada una de éllas; y en qué forma deben contarse las de dichas Sacristías: Artículo 205. 270
-
 Cargas que en los casos de vacantes de la Mitra, ó de las Canongías Magistral ó Doctoral, debe sufrir el ramo de las mayores y menores en la misma Iglesia en que aquéllas se causen: quién ha de regular la quota de ellas; y qué formalidades habrán de preceder para su pago: Artículo. 206.. 272
-
 Pensiones para la Real Órden de Carlos III: de qué fondo se ha de pagar lo que á ellas corresponda á prorata por las vacantes de las Mitras y Prebendas que sufren aquella contribución: Artículo 207... 275
-
 Monte-pio Militar: consignacion que en su beneficio y socorro le está hecha sobre el producto de las Vacantes mayores y menores: Artículo 208... 277
-
 Media-anata Eclesiástica: su concesion Pontificia, y Reales disposiciones que prescriben las reglas que se han de observar para su adeudo, exâccion y cobranza; y quiénes las han de executar Artículo 209.. 278
-
 Mesada Eclesiástica de Curas Párrocos excep tuados de la Media-anata: baxo qué jurisdiccion y reglas se ha de regular, exîgir y recaudar: quál debe ser el destino de su producto y 18 por 100: en qué cuenta se han de comprehender úno y ótro; y con qué distinción: Artículo 210... 281
-
 Productos de Medias-anatas Eclesiásticas, y de las Mesadas de Curas Párrocos: dónde se han de reunir sus líquidos en principio de cada año: cómo, por quiénes, y adónde se ha de remitir el total que resulte: modo en qué se ha de formar la cuenta de este Ramo: quiénes deben darla: y dónde la han de presentar: Artículo 211... 282
-
 Regulacion de la Media-anata Eclesiástica: por qué reglas se ha de hacer para exîgirla á los sugetos provistos en Piezas de igual, ó mayor renta que las que dexen, y á los que falleciesen ó fuesen promovidos antes de cumplir el año de la posesión: Artículo 212... 284
-
 Subcolectores de la Media-anata y Mesada Eclesiásticas: qué documento les han de pasar las Juntas de Diezmos respectivas; y para qué fines: Artículo 213... 286
-
 Mesada Eclesiástica, con su 18 por 100, de las Dignidades y demas Piezas que no adeudan Media-anata: su origen por concesiones Pontificias: calidades de éstas,y de su última próroga corriente: motivos que obligan á variar las reglas ántes observadas en el manejo de este Ramo; y dónde se prescriben las que en lo sucesivo deben gobernarle: Articulo 214... 287
-
 Mesada Eclesiástica y su 18 por 100: baxo qué jurisdiccion y facultades ha de correr este Ramo: cómo se ha de regular y exigir el importe de aquélla, y en qué plazo: dónde se han de hacer los enteros: qué Relacion ha de formarse anualmente de sus productos: á quiénes se deberá pasar, y con qué otros documentos; y para qué fines: Artículo 215... 291
-
 Cuenta del dicho Ramo: dónde, y en qué modo se ha de rendir: qué aplicacion está dada á sus productos: adónde se han de remitir éstos desde las Tesorerías que los recauden; y por cuenta y riesgo de quiénes: Artículo 216... 293
-
 Despachos de provisiones Eclesiásticas, excepto los de Arzobispos y Obispos: cómo, y á quiénes se han de remitir los que se expidan por las Secretarías de la Real Cámara, y para qué efectos; y qué deberá practicarse á los mismos fines con los de las presentaciones que hicieren los Vice-Patronos Reales: Artículo 217... 295
-
 Razón que de unos y otros Despachos se ha de pasar al Tribunal de la Contaduría de Cuentas: quiénes lo han de executor; y para qué fines: Artículo 218... 298
-
 Piezas Eclesiásticas, Oficios y Pensiones que sólo deben adeudar la Mesada: quáles Media-anata; y quáles han de ser exêntas de úna y ótra: quotas en el valor de sus rentas para distinguir estas clases; y declaracion de la equivalencia de los Ducados de oro de cámara Romanos, y de los de la moneda corriente en Indias, reducidos únos y ótros á pesos efectivos de ella: Artículo 219. 299
-
 Cómo, y sobre qué documentos y noticias han de averiguar los Subcolectores de la Media-anata y Mesada los verdaderos valores de las Piezas Eclesiásticas que se provéan, asi para saber quál de los expresados dos derechos deben contribuir, como para regular la quota del que á cada una corresponda satisfacer: Artículo 220... 301
-
 Doctrinas, y Beneficios Curados que deben contribuir el derecho de Mesada, y en qué forma; y qué Limosnas y Pensiones Eclesiásticas están exêntas de adeudarlo: Artículo 221... 303
-
 Rentas menores, y Derechos parciales pertenecientes á la Corona: quáles son, y en qué forma se han de recaudar segun sus circunstancias: y en quál de las priméras ha de subsistir su Juzgado segun se halla establecido: Artículo 222... 304
-
 Dotacion de los Curatos por los Perceptores de Diezmos: qué providencias están dadas en razón de éllo, y con qué objetos: y quiénes han de promover su cumplimiento: Articulo 223... 305
-
 Derechos Parroquiales: cómo, y á quiénes se encarga prohibir todo exceso en su cobranza: á quiénes la formacion de sus Aranceles equitativos y arreglados: por quién se han de examinar y aprobar: en qué término se debe executar úno y ótro; y quiénes han de zelar que tódo se cumpla exâctamente: Artículo 224... 308
-
 Expolios de los Prelados Diocesanos: qué vigilancia y cuidado corresponden acerca de ellos á la Soberana proteccion, y para qué fin: quáles disposiciones se deben observar; por quién, y con qué ampliaciones y restricciones para su mejor desempeño: Artículo 225... 309
-
 Intervencion de los Fiscales de las Audiencias en los Inventarios de dichos Expolios; y á quién corresponde donde no hai aquellos Tribunales: Artículo 226... 311
-
 Inventarios, Almonedas y Remates de los mencionados Expolios: quiénes han de asistir á éllos: á qué Magistrados corresponde su conocimiento privativo, y el de sus incidencias; y á qué Tribunales las apelaciones: cómo sus Fiscales se han de apersonar en estas segundas instancias, y para qué efecto: Artículo 227... 311
-
 Depósito de los bienes inventariados en Expolios: dónde, y en qué forma ha de executarse; y cómo se ha de proveer oportunamente, y con decoro, á precaver ocultacion y extravío de alhajas: Artículo 228... 312
-
 Remisión de los Autos de Expolios: en qué estado se ha de verificar: á qué Tribunal, y para qué fines; y cómo han de concluirse hasta la entrega de los bienes, y dar cuenta adonde corresponde: Artículo 229... 313
-
 Precisa entrada de los caudales de todos los Ramos de Real Hacienda en general (exceptuando solo el que se expresa) en las respectivas Tesorerías; y reunion en la General de los sobrantes de todas ellas: Artículo 230... 314
-
 Cuentas de las especies y productos de Tabaco, Pólvora, Naipes y Papel Sellado: cómo, y dónde se ha de dar la de cada ramo; y qué se debe executar con cada una: Artículo 231... 316
-
 Junta semanal de Gobierno: dónde se ha de congregar: quiénes deben concurrir á élla; y quáles han de ser sus objetos: Artículo 232... 317
-
-Junta idem: qué facultad tendrán en ella los Intendentes: de qué clase ó calidad será el voto de los demas concurrentes: qué asientos se deberán hacer en el Libro que ha de tenerse; y en qué casos habrá de consultar dicha Junta á la Superior: Articulo 233... 319
-
+Junta idem: qué facultad tendrán en ella los Intendentes: de qué clase ó calidad será el voto de los demas concurrentes: qué asientos se deberán hacer en el Libro que ha de tenerse; y en qué casos habrá de consultar dicha Junta á la Superior: Artículo 233... 319
 Arcas mensuales: quándo, y con qué formalidades se ha de hacer esta operación, así en las Tesorerías General, Principales y Foraneas, como en las de los Ramos ó Administraciones particulares, sin excepcion de algúna: en quáles de ellas han de presenciarla los Intendentes: en quáles sus Subdelegados; y quáles serán de resultas las obligaciones y responsabilidad de los únos y los ótros: Artículo 234... 320
-
 Estados mensuales de valores y gastos de cada Tesorería: quiénes, y en qué conformidad los han de formar: qué tiempo han de comprehender: cómo, á quién, y en qué término los han de presentar: qué cotejo han de hacer con ellos los Intendentes y sus Subdelegados, y para qué fin; y cómo han de proceder únos y ótros según lo que resulte: Artículo 235... 323
-
 Estados idem: quántos exemplares de cada uno de éllos se han de entregar á los Intendentes y á sus Subdelegados respectivamente: qué deben executar únos y ótros con éllos, y también el Superintendente Subdelegado con los que le han de pasar los Intendentes: reunion que de todos los del mes de Diciembre ha de hacer en uno General el Tribunal de Cuentas: qué número de exemplares de él debe pasar al Superintendente; y para qué fines: Artículo 236... 324
-
 Inventarios generales en fin de año: á qué otras diligencias, concurrencia y autoridad se ha de extender para verificarlos en cada Tesorería y Administracion segun corresponde, la operacion de Arcas respectiva al mes de Diciembre: dónde se debe dexar testimonio de cada uno de los que se forme: adónde se han de pasar los originales de las Tesorerías General, Principales y Foraneas: adónde los de las Administraciones de ramos estancados; y únos y ótros para qué efectos: Artículo 237... 327
-
 Noticia individual que han de pedir y tener los Intendentes de todos los Empleados en la Real Hacienda, y de su capacidad y conducta: con qué objeto; y modo de corregir sus faltas: Artículo 238. 330
-
 Fraudes y Contrabandos por Veracruz y sus Costas colaterales: qué reglas ha de observar el Intendente de aquella Provincia para embarazarlos y extinguirlos; y qué facultades y encargos deben para ello entenderse con su empléo: Artículo 239... 331
-
 Jurisdiccion de Comisos: en qué forma la han de exercer los Intendentes en sus respectivas Provincias: para dónde deben ser las apelaciones en primera y segunda instancia; y cómo, y con qué circunstancias se ha de dar siémpre cuenta al Rei en qualquiera caso: Artículo 240... 332
-
 Introduciones lícitas desde los Puertos de Veracruz y Acapulco á la interior del Reino, y al contrario: qué avisos recíprocos han de darse en tales casos para el mejor resguardo de las Rentas Reales Artículo 241... 334
-
 Tribunal de la Contaduría de Cuentas: qué funciones le quedan expeditas; y con qué responsabilidad respecto de las cuentas que en uso de ellas tomare: Artículo 242... 335
-
 Tribunal idem: cómo ha de decidir las dudas que se le ofrecieren durante el éxámen de alguna cuenta, ú otro negocio que tratare no habiendo llegado á pleito, y en qué caso deberá consultar á la Junta Superior de Hacienda para que lo haga: conocimiento privativo de la misma Junta en los casos de que tratan las leyes 36, 65, 84, 88 y 93 del tít. i.° lib. 8.°; y baxo qué calidades y circunstancias en cada uno: dónde ha de congregarse para ello: qué Escribano ha de asistir, y autorizar sus providencias; y qué funciones corresponden al Superintendente Subdelegado en el Tribunal de Cuentas como su Presidente: Artículo 243... 336
-
 Cuentas anuales de todas las Tesorerías y Administraciones: en qué modo se han de formalizar, ordenar y justificar: por dónde deben remitirse al Tribunal de éllas; y cómo los Intendentes han de hacerlo cumplir: Artículo 244... 339
-
 Entretenidos en las Oficinas de Real Hacienda: cómo se han de admitir, y éllos optar las vacantes de Oficiales: Artículo 245... 340
-
 Separacion de Entretenidos: en qué forma podrá efectuarse siempre que diesen justo motivo: Artículo 246... 343
-
 Asistencia á las Oficinas: por quántas horas debe ser cada dia: quáles se han de exceptuar en el año; y cómo deben zelarse y castigarse las faltas: Artículo 247... 343
-
 Cómo se han de entender para con el Superintendente Subdelegado, el Contador y Tesorero Generales, las reglas dadas en general por varios Artículos con relacion á los Intendentes, y á los Contadores y Tesoreros Principales de Provincia: Artículo 248... 346
-
 Superintendencia General de la Real Hacienda en Indias: en quién reside: con qué amplitud de derechos y facultades; y para qué fines: Artículo 249... 346
-
 CAUSA DE GUERRA.
-
 Los Intendentes cuiden en las Provincias de su cargo de todo lo correspondiente á Guerra que tenga conexión con la Real Hacienda: Artículo 250... 347
-
 Subsistencia de la Tropa, su economía y policía en general, y lo necesario para su curación: á quiénes tocan estas atenciones: á qué están substancialmente reducidas-, y qué forma y método ha de observarse para su desempeño: Artículo 251... 348
-
 Sueldos y Prest: quándo se han de subministrar, y baxo qué prohibicion de anticipaciones: cómo se debe ésta entender; y cómo, en qué proporción, con qué formalidades y responsabilidad, se deberán hacer las que se permiten á buena-cuenta para la Tropa: Artículo 252... 349
-
 Ajustes mensuales: por qué Oficinas se han de hacer, y sobre qué documentos: quiénes los han de visar; y baxo qué formalidades se ha de verificar el pago de los alcances que resulten: Artículo 253... 352
-
 Descuentos en Sueldos y Prest: quáles, y quándo se han de hacer; y baxo de qué reglas, en quanto á la correspondencia equivalente de las monedas, los que dimanen de subministraciones hechas en España: Artículo 254... 353
-
 Pase de Tropa de una Provincia á ótra, ó restitucion á su Cuerpo: qué documentos debe llevar; y qué avisos y órdenes han de anticipar los respectivos Intendentes en tales casos: Artículo 255... 355
-
 Fondos asignados en Rentas del Erario para el pago de Tropas: dónde se han de recaudar; y con qué objetos: Artículo 256... 355
-
 Escasez en los fondos destinados á cubrir el haber de las Tropas: cómo se ha de proceder en tal caso á la distribucion y pagos: Artículo 257... 356
-
 Subsistencia de Víveres: cómo se debe cuidar de que no falten, y de que se hallen en los parages que convenga: Artículo 258... 357
-
 Saca de Víveres de los Almacenes: qué órdenes deben preceder para que aun los mismos Asentistas la puedan hacer; y quiénes han de zelar que éstos cumplan las obligaciones de sus contratos: Artículo 259... 357
-
 Subministraciones de Víveres: en virtud de qué Órdenes y Recibos las deben executar los Asentistas; y cómo se han de precaver en esta parte, y castigar negociaciones ó beneficios entre éllos y los Oficiales: Artículo 260... 358
-
 Granos del Pais: prohíbese á los Asentistas su consumo: en qué caso se les permitirá: cómo, y á qué precios han de pagar los que las Tropas consumieren en sus tránsitos: Artículo 261.. 358
-
 Víveres mal acondicionados: cómo se ha de proceder á su exclusion y reemplazo: penas en caso de que los Asentistas los hayan adulterado, ó disimulado dolosamente su perniciosa calidad, y en el de que falsifiquen su peso ó medida: Artículo 262... 359
-
 Víveres por administracion de cuenta de la Real Hacienda: cómo se ha de establecer, y asegurar con oportunidad la porcion de granos necesaria; y cómo ha de calcularse el caudal que se deba destinar para esta provision: Artículo 263...	360
-
 Almacenes de Víveres, y Fábricas de Pan y Vizcocho: con qué circunstancias se han de establecer, y también el método para la cuenta y razón en el consumo, distribucion y gastos: Artículo 264...	361
-
 Víveres y Bagages subministrados por los Pueblos á las Tropas quando la provision corra par cuenta de la Real Hacienda: con qué puntualidad, y á qué precios se han de pagar: Artículo 265...	361
-
 Abundancia de Bastimentos: por qué medios se ha de procurar que la haya en los parages de marchas y campamentos de Tropas: Artículo 266...	362
-
 Cebada, Paja, ú otro pasto para la Caballería en sus tránsitos, Quarteles ó Plazas: con qué cuidado se han de hacer los repartimientos si estas provisiones se hubieren de subministrar por los Pueblos; y en qué forma se ha de proceder en caso de que corran por asiento: Artículo 267...	362
-
 Subministracion de estas provisiones por los Pueblos de cuenta del Asentista en los tránsitos: cómo se atenderá á que aquéllos en tales casos no experimenten vexaciones; y cómo se ha de proveer á que tampoco sufran gastos y molestias para el cobro de su importe: Artículo 268...	363
-
 Subministracion de Pan por los Pueblos en iguales circunstancias: baxo qué reglas se ha de executor: qué prevenciones deben para ello hacerse en los Itinerarios; y en qué caso podrá el Asentista enviar con la Tropa un Factor para su provision: Artículo 269...	364
-
 Conduccion de Cebada, Paja ó Efectos: cómo se ha de arreglar para ella el número de Bagages quando la Caballería no pueda hacerla; y en qué modo se ha de procurar la mayor economía: Artículo 270...	355
-
 Leña, y otros Utensilios: cómo se han de subministrar á la Tropa en los casos de asiento, ó de admmstracion: Artículo 271...	366
-
 Carruages ó Bagages. para transportes de Víveres: cómo se han de repartir á los Pueblos para que no reciban agravio: alternativa que entre los Vecinos han de observar para ello las Justicias y y penas á las que contravengan: en quáles incurrirán los Asentistas sino pagaren puntualmente los transportes; y en qué casos debe, ó nó hacerse el tal repartimiento: Artículo 272...	366
-
 Bagages para Oficiales y Tropa: quándo se han de dar, y quándo nó: cómo se han de pagar; y quál ha de ser su servicio: Artículo 273...	367
-
 Cuentas de Raciones: cómo, y quándo se han de liquidar entre Habilitados y Asentistas, y entre éstos y las Contadurías Principales de Provincia respectivas: Certificaciones que por ellas se han de dar á los mismos Asentistas para que obren en su ajuste general; y por qué Oficina se les ha de hacer éste para que se les satisfaga su alcance: Artículo 274...	369
-
 Ajustes mensuales de Raciones á los Cuerpos, y á los Oficiales sueltos: en qué forma, y sobre qué documentos se han de hacer; y qué se debe executar en cada uno de los casos de haber recibido un Cuerpo, ú Oficial, ménos, ó mas raciones de las que le correspondían: Artículo 275...	371
-
 Agravios en los ajustes de Raciones: cómo se ha de reintegrar al Cuerpo, ó al Oficial el que en éllos hubiesen recibido siémpre y quándo lo acrediten: Artículo 276...	372
-
 Causas sobre provision de las Tropas y sus Dependientes: quiénes han de conocer de ellas con privativa jurisdicción; y adónde corresponden las apelaciones: Artículo 277...	374
-
 Alojamiento de Tropa en Casas particulares: por qué medios se ha de procurar en tales casos que experimenten los Vecinos la menor incomodidad y extorsion posibles, y cómo se han de castigar en los Soldados los excesos ó violencias que cometieren contra éllos: Artículo 278...	374
-
 Descripcion que las Justicias de los Pueblos han de hacer y tener de las Casas de cada uno, para facilitar el puntual cumplimiento del Artículo antecedente: Artículo 279...	376
-
 Contenta de las Justicias ordinarias: con qué expresion, y para qué efecto la han de sacar los Sargentos Mayores, ó los Comandantes, en los Pueblos donde alojaren, en Casas particulares con la Tropa de su mando: qué penas se han de imponer por qualquiera exceso que élla, ó algún Oficial ó Soldado suelto cometa: modo de justificarlo, y de resarcir los agravios: Artículo 280...	376
-
 En el caso de no poderse averiguar los delinqüentes de que trata el Articulo anterior: quién habrá de resarcir los daños que éllos hubiesen causado; y en qué forma: Artículo 281...	378
-
 Revistas mensuales: quiénes las han de pedir, y fixar el dia; y dentro de qué término: á quién toca señalar la hora y el parage: por quiénes se han de executar en las Capitales: por quiénes fuera de ellas; y únos y ótros con qué carácter y prerogativas: Artículo 282...	379
-
 Extractos de Revistas: con qué claridad, distinciones y formalidades se deben hacer y autorizar; y baxo qué obligacion y responsabilidad en los que las intervengan: Artículo 283...	380
-
 Extractos idem: en qué forma, y con qué otros documentos se han de pasar por los Ministros que las practicaren á los Intendentes: con quánto cuidado deben éstos examinar únos y ótros: qué han de executar con los documentos sino hallaren reparo alguno; y en este caso, cómo han de remitir los Extractos al Intendente General de Exército y para qué fin; y en el contrario, por qué medio se ha de indemnizar á la Real Hacienda sobre el Ministro que los formó qualquiera agravio que en ellos la hubiere causado: Artículo 284...	383
-
 Revistas de Tropa: cómo se han de precaver los fraudes que en ellas pueden intentarse: Artículo 285...	385
-
 Habilitacion de Extractos: por qué medios se ha de facilitar para los ajustes de los Cuerpos que por justa causa no se hubieren podido revistar en algún mes: Artículo 286...	386
-
 Facultades del Intendente de Exército, ú otro con exercicio de sus funciones, sobre los de Provincia y las Justicias subalternas en caso de pasar por sus distritos, ó de extenderse á ellos las Tropas del cuidado de aquél baxo el mando de un solo Gefe militar: Artículo 287...	386
-
 Superioridad y facultades de los Intendentes sobre los Comisarios de qualquiera clase que sean, Contadores, Tesoreros y Dependientes de Hospitales y Provisiones; y cómo se han de nombrar éstos en caso de correr únas y ótros por administracion de cuenta de la Real Hacienda: Artículo 288...	387
-
 Repuestos de Víveres, y establecimiento de Hospitales en campaña: cómo se han de hacer mediando Asiento, ó sin él: con qué cuidado y atenciones: su cuenta y razón: visitas diarias de los Hospitales; y cómo baxo las mismas reglas se han de manejar los permanentes:	Artículo 289...	388
-
 Almacenes de reserva: cómo, y con qué acuerdo se han de establecer donde convengan; y cómo se han de visitar, cuidar y renovar en ellos los géneros: Artículo 290...	390
-
 Camas en Quarteles fixos: cómo se han de poner de cuenta de la Real Hacienda donde no las hubiere, y zelar su conservación: con qué resguardo deben entregarse á los Cuerpos; y para qué fin: Artículo 291...	390
-
 Almacenes de Guerra: cómo han de atender los Intendentes á su conservación, buen estado y composicion de sus pertrechos; y también á reponer los consumidos: Artículo 292...	391
-
 Contralores, Guarda-Almacenes y demas Dependientes de Artillería: qué subordinacion deben tener á los Intendentes: conocimiento de éstos en sus causas; y facultad de proponer los necesarios para las expediciones en tiempo de Guerra: Artículo 293... 392
-
 Armeros: en qué caso los podrán establecer los Intendentes de cuenta de la Real Hacienda, y para qué fines; y cómo se ha de atender á conservar las Fábricas de Artillería, y demas pertenecientes á Guerra: Artículo 294...	393
-
 Apronto de las prevenciones para la Artillería, y de las Herramientas y demas cosas necesarias para qualquiera operacion ó trabajo; y disposiciones para su conduccion: con qué acuerdo ha de ser úno y ótro de cargo de los Intendentes: Artículo 295... 394
-
 Reparacion de las Fortificaciones, Quarteles y Almacenes: por qué medios, y con quánto cuidado se debe ocurrir oportunamente á ella, dando cuenta de todo á la Real Persona: Artículo 296...	394
-
 Gastos extraordinarios en general: cómo se han de acordar y executar; y cómo los urgentes en cada Provincia: Artículo 297...	396
-
 Gastos extraordinarios en el caso de Guerra, y gratificaciones ó recompensas por sus faenas: cómo, y con qué consideracion se han de acordar y executar: Artículo 298...	396
-
 Subordinacion de los Intendentes de Provincia al General de Exército en todo lo respectivo á Guerra, y de éste y aquéllos al Virréi, y al Comandante-General de las Fronteras: correspondencia que deben observar con los demas Gefes militares: asuntos que les han de comunicar; y cómo únos y ótros se han de auxiliar mútua y respectivamente: Artículo 299...	397
-
 Cómo el Virréi, el Comandante-General de las Fronteras, los demas Gefes militares y los Tribunales civiles, deben autorizar y auxiliar respectivamente á los Intendentes, guardándoles las preeminencias que les tocan, y obrando de acuerdo en todo lo conducente á estos fines: Artículo 300...	400
-
 Consejos ó Juntas de Guerra, ó de Fortificacion, á que han de concurrir los Intendentes: para qué fines; y qué lugar han de tener en ellas el de Exército, y los de Provincia que exercieren sus funciones: Artículo 301...	400
-
 Graduación, tratamiento y honores militares y fúnebres que se conceden al Intendente de Ejército, y á los de Provincia: Guardia que se les ha de dar donde hubiere Tropa; y Uniforme que por ahora han de vestir los de Provincia: Artículo 302...	402
-
 Sueldos de los Intendentes, y con qué condiciones: absoluta prohibicion de pretender ni recibir otra cantidad por ningún título ni respecto; y pena en que incurrirá el que la contraviniere: Artículo 303...	404
-
 Fianzas: cómo, y de qué cantidad las deben dar los Intendentes de Provincia, y quién las ha de calificar; y se exceptúa de esta obligacion al Superintendente Subdelegado por todas sus representaciones: Artículo 304...	406
-
 Residencia: cómo la deben dar los Intendentes en quanto Corregidores; y también sus Tenientes, Subdelegados y demas Subalternos: por quién se ha de despachar; y en qué forma se debe proceder en ella: Artículo 305... 407
-
 Dase á esta Instruccion y Ordenanza fuerza de Lei: se revocan las disposiciones, establecimientos, costumbres ó prácticas contrarias: se prohíbe su interpretacion y glosa; y se manda observar por todos los Tribunales y Gefes Seculares y Eclesiásticos, y por los demas á quienes toque, evitándose toda competencia y embarazo: Artículo 306...	407
-
 El Rey
 Movido del paternal amor que me merecen todos mis Vasallos, aun los mas distantes, y del vivo deséo con que desde mi exáltacion al Trono he procurado uniformar el gobierno de los grandes Imperios que Dios me ha confiado, y poner en buen órden, felicidad y defensa mis dilatados Dominios de las dos Américas, he resuelto, con mui fundados informes y maduro êxámen, establecer en el Reino de Nueva España Intendentes de Exército y Provincia para que, dotados de autoridad y sueldos competentes, gobiernen aquellos Pueblos y Habitantes en paz, y justicia en la parte que se les confía y encarga por esta Instrucción, cuiden de su policía, y recauden los intereses legítimos de mi Real Erario con la integridad, zelo y vigilancia que prefinen las sabias Leyes de Indias, y las dos Reales Ordenanzas que mi augusto Padre y Señor D.Felipe Quinto, y mi amado Hermano D. Fernando Sexto publicaron en 4 de Julio de 1718, y 13 de Octubre de 1749; cuyas prudentes y justas reglas quiero se observen exâctamente por los Intendentes del expresado Reino con las ampliaciones y restricciones que van explicadas en los Artículos de esta Ordenanza é Instrucción.
-
 1
 A fin de que mi Real voluntad tenga su pronto y debido efecto, mando se divida por ahora en doce Intendencias el distrito de aquel Imperio sin incluir las Californias, y que en lo sucesivo se entienda por una sola Provincia el territorio ó demarcacion de cada Intendencia con el nombre de la Ciudad que hubiese de ser su Capital, y en que habrá de residir el Intendente, quedando las que en la actualidad se titulan Provincias con la denominacion de Partidos, y conservando éstos el nombre que tienen aquéllas. Será una de dichas Intendencias la General de Exército y Provincia que se ha de establecer en la Capital de México. Las otras once serán sólo de Provincia, y de ellas se habrá de establecer úna en la Ciudad de la Puebla de los Ángeles; otra en la Ciudad y Plaza de la Nueva Veracruz; ótra en la Ciudad de Mérida de Yucatan; ótra en la Ciudad de Antequera de Oaxaca; ótra en la Ciudad de Valladolid de Mechoacan; ótra en la Ciudad de Santa Fe de Guanaxuato; ótra en la Ciudad de San Luis Potosí; ótra en la Ciudad de Guadalaxara; ótra en la Ciudad de Zacatecas; ótra en la Ciudad de Durango, y la restante será la que ya se halla establecida en la Ciudad de Arispe, y se extiende á las dos Provincias de Sonora y Sinalóa. Cada una de las expresadas Intendencias ha de ser comprehensiva de las Jurisdicciones, Territorios y Partidos que respectivamente se las señalan en el final de esta Instrucción, la qual se entregará á los nuevos Intendentes que Yo elija con sus correspondientes Títulos, (que por ahora se expedirán por la Secretaría de Estado y del Despacho Universal de Indias) pues me reservo nombrar siémpre y por el tiempo de mi voluntad para estos empléos personas de acreditado zelo, integridad, inteligencia y conducta, como que descargaré en ellas mis cuidados, cometiendo al suyo el inmediato gobierno y proteccion de mis Pueblos.
-
 2
 Ha de continuar el Virréi de la Nueva España con todo el lleno de la superior autoridad y omnímodas facultades que le conceden mi Real Título é Instrucción, y las Leyes de Indias, como á Gobernador y Capitan General en el distrito de aquel mando, á cuyos altos empléos está agregado el de Presidente de la Audiencia y Chancillería de la Capital Metrópoli de México; pero dexando la Superintendencia y arreglo de mi Real Hacienda en todos los ramos y productos de ella al cuidado, direccion y manejo de la Intendencia General de Exército y Hacienda que se ha de crear en dicha Capital, y á que estarán subordinadas las demas de Provincia que en el mismo Reino mando también erigir por esta Instrucción.
-
 3
 Para que en ningún caso, ni en modo alguno se confunda la suprema autoridad que tengo conferida y depositada en mis Virreyes, quiero y mando que el de la Nueva España, y sus Sucesores en aquel Virreinato, pongan el Cúmplase no sólo en los Títulos de Intendentes que se despachen á los de las Provincias comprehendidas en el distrito de su mando, como lo hace en los de sus Gobernadores, sino también en el que se expida al Intendente General de Exército y Real Hacienda del propio Reino; pero éste lo debe también poner después en los Despachos de los de Provincia como Superintendente de mi Real Hacienda, respecto de que en todo lo perteneciente á ella le han de estar subordinados según se dispone por esta Ordenanza, y se indicó en el Artículo antecedente. Por la misma razón pondrá dicho Superintendente también el Cúmplase en los Despachos que se expidan á los Intendentes de Arispe y de Durango, y presentados así al Comandante General de las Fronteras, les pondrá igualmente el suyo, tomándose ántes razón de ellos en la Contaduría de Cuentas de México, como de los demás á su tiempo, y de únos y otros después en las Contadurías Principales de Provincia á que respectivamente corresponda.
-
 4
 La Superintendencia que ha de exercer el dicho Intendente General de Exército se ha de entender como delegada de la General de mi Real Hacienda de Indias, que reside en mi Secretario de Estado y del Despacho Universal de ellas. Y con el justo fin de proporcionar al expresado Superintendente Subdelegado algún alivio en sus importantes encargos, y de auxiliar al mismo tiempo este establecimiento de Intendencias, reuniendo la direccion de tódas para uniformar su gobierno en quanto lo permita la diferencia de aquellos Pueblos y Provincias, ordeno y mando al propio Superintendente Subdelegado que, de acuerdo con mi Virréi, establezca desde luego en la Capital de México una Junta Superior de mi Real Hacienda, á que debe concurrir como su Presidente, componiéndose además, en conformidad de la lei 8 título 3.º lib. 8.°, del Regente de aquella Audiencia Pretorial; del Fiscal de mi Real Hacienda, con voto en todos los asuntos y expedientes que no actuare como parte; del Ministro mas antiguo del Tribunal de la Contaduría de Cuentas, y del Ministro mas antiguo Contador ó Tesorero General de Exército y Real Hacienda. Y debiendo sentarse los Vocales por el órden que van nombrados, presidirá las Juntas á que no pueda concurrir el Superintendente Subdelegado aquél á quien por el mismo órden le corresponda; y asistirá siémpre á ellas el Escribano de la Superintendencia para autorizar los acuerdos y resoluciones que no sean sobre el ramo de Propios y Arbitrios, ó Bienes de Comunidad: con advertencia de que le substituya, quando la necesidad lo pida, su Oficial Mayor, á cuyo fin le habilito en toda forma, y de que úno y ótro éntren á dichos actos sin Espada ni Sombrero, y tomen asiento en Banco raso colocado fuera de la Tarima y en la testera opuesta á la que ocupa el Ministro que presida la Junta.
-
 5
 Si por ausencia, enfermedad ú otra justa causa no pudiese concurrir á la expresada Junta Superior de Hacienda alguno de sus Vocales, suplirá por el Superintendente Subdelegado el Asesor de la Superintendencia; por el Regente de la Audiencia, el Decano de ella; por el Fiscal de la Real Hacienda, el que sirva la Fiscalía; por el Ministro del Tribunal de Cuentas, su inmediato en antigüedad, y por el Ministro Contador ó Tesorero General de Exército y Hacienda, su Compañero: entendiéndose que el Asesor de la Superintendencia se sentará despues del Ministro del Tribunal de Cuentas, y que todos los Vocales nominados para cada caso de los que se han explicado en éste y en el anterior Artículo, inclusos los expresados Ministros de Real Hacienda conforme á la lei 12 título 3.º lib. 8.°, han de tener voto decisivo sin distincion de causas tocantes á mi Real Hacienda, aunque no sean Togados; pero guardándose siémpre respecto de todos la disposicion de la lei 17 de los citados título y libro.
-
 6
 La mencionada Junta deberá celebrarse una, ó dos veces cada semana, en los dias y horas que señalare el Superintendente Subdelegado según sus graves ocupaciones, y las de los demas Vocales; pero si ocurriere alguna urgencia podrá convocar otras Juntas extraordinarias. En todas ellas se ha de tratar, con arreglo á esta Instruccion y á las Ordenes que Yo diere en lo sucesivo, de reducir en las Provincias de aquel Imperio á un método igual, en quanto fuere posible, el gobierno y administracion de justicia en materias de mi Real Hacienda, y en lo económico de Guerra; cuidando privativamente la expresada Junta Superior no sólo de los dichos dos ramos ó causas, sino también del de los Propios y Arbitrios, y Bienes de Comunidad de los Pueblos: para cuya direccion y conocimiento la concedo quanta jurisdiccion y facultadas sean necesarias, con absoluta inhibicion de todos mis Tribunales, y la sola dependencia de mi Real Persona por la Via reservada del Despacho Universal de Indias; dexando los asuntos contenciosos que traigan origen de la Jurisdiccion Real ordinaria y causa de Policía y Gobierno, en apelacion de los Intendentes, sus Subdelegados y demas Jueces ordinarios, sujetos á la respectiva Audiencia del distrito, como lo están por las Leyes recopiladas de Indias.
-
 7
 Los Gobiernos políticos de la Puebla de los Angeles, de la Nueva Vizcaya, y de Sonora y Sinalóa; los Corregimientos de México y Antequera de Oaxaca; el de Veracruz, que ha de crearse, y las Alcaldías Mayores ó Corregimientos de Valladolid, Guanaxuato, San Luis Potosí y Zacatecas, han de ir precisa y respectivamente unidos á las Intendencias que establezco en dichas Capitales y sus Provincias, quedando extinguidos los sueldos que en la actualidad gozan los que sirven algunos de los referidos empléos, y á cargo por ahora del Presidente Regente de la Audiencia de Guadalaxara el servir aquella Intendencia. Y mando que los Intendentes tengan por consiguiente á su cargo los quatro ramos ó causas de Justicia, Policía, Hacienda y Guerra, dándoles para ello, como lo hago, toda la jurisdiccion y facultades necesarias, con respectiva subordinacion y dependencia en quanto corresponda á las dos priméras, los de Arispe y Durango al Comandante General de sus Provincias, los diez restantes al Virréi, y tódos á las Audiencias territoriales, según la distincion de mandos, naturaleza de los casos y asuntos de su conocimiento, y conforme á las Leyes recopiladas de Indias como se explicará en el cuerpo de esta Ordenanza, por no ser mi Real ánimo que las jurisdicciones establecidas en ellas se confundan, alteren ó impliquen con motivo de concurrir todas en una persona, quando se dirige principalmente esta disposicion á evitar los freqüentes embarazos y competencias que resultarían entre los Intendentes y los Gobernadores, Corregidores ó Alcaldes Mayores, si quedaran separados estos empléos antiguos en las Capitales y Provincias donde ahora se establecen los nuevos.
-
 8
 A excepcion de los Intendentes de México, Guadalaxara, Arispe, Mérida de Yucatan y Veracruz, todos los demás han de exercer en sus Provincias el Vice Patronato Real conforme á las Leyes, y en calidad de Subdelegados de los respectivos propietarios; pero quedando reservadas á éstos todas las presentaciones eclesiásticas que como á tales Vice Patronos les correspondan, y también el absoluto exercicio de esta suprema regalía de mi Corona en los distritos de las Intendencias donde tienen sus fixas residencias: de modo que en él de la de México corresponderá al Virréi, en el de la de Arispe al Comandante General de las Fronteras, en el de la de Guadalaxara al Presidente Regente de su Real Audiencia, y en la de la de Mérida y Provincia de Yucatan á su Gobernador Capitan General; pero en el territorio de la Intendencia de Veracruz á que no se extiende la jurisdiccion de aquel Gobernador, corresponderá al Intendente de la Puebla el exercicio que ya le queda declarado para su propia Provincia, así como al dicho Gobernador, y al del Nuevo Reino de León en los distritos de sus respectivos mandos con la misma calidad de Subdelegados del Vice Patrono propietario, (que en ambas partes lo es el Virréi) y con la ya explicada reserva á su favor.
-
 9
 Los demas Corregimientos y Alcaldías Mayores de toda la comprehension de las enunciadas doce Intendencias que no se expresaron en el Artículo 7, inclusas también las dos de Tixtla y Chilapa, se han de extinguir conforme vayan vacando, ó cumpliendo su tiempo los provistos por Mí en únas y ótros; y entretanto estarán inmediatamente sujetos y subordinados á los respectivos Intendentes de su distrito, y éstos les subdelegarán sus encargos para que así se uniforme desde luego el gobierno de todas las Provincias, y se evite la confusion que siémpre causa la diversidad de jurisdicciones y Ministros. Y aunque mi Soberana voluntad es que en la prefinida extincion se comprehendan también los Corregimientos y Alcaldías Mayores de los Estados del Valle y de Atlixco para igualar enteramente la condicion de todos mis Vasallos de la Nueva España, continuarán, sin embargo, los provistos actuales en los indicados empléos, bien que sujetos á las reglas que se establecen por esta Ordenanza, ínterin cumplen, y se conviene con los poseedores de dichos Estados en la justa recompensa que se les dará por sus respectivos derechos y privilegios.
-
 10
 Quedarán exîstentes los Gobiernos políticos y militares de Yucatan, Tabasco, Veracruz, Acapulco, Nuevo Reino de León, Nuevo Santander, Coahuila, Texas y Nuevo México, y han de continuar por consiguiente con las causas de Justicia y Policía reunidas al mando Militar en sus respectivos territorios ó distritos, excepto lo correspondiente á Propios y Arbitrios, y Bienes de Comunidad de los Pueblos, que ha de ser privativo de los Intendentes con subordinacion á la Junta Superior de Hacienda: entendiéndose que la Jurisdiccion del Gobernador ó Castellano de Acapulco en quanto á lo político y de justicia ha de quedar ceñida á la Ciudad de los Reyes y su Puerto, con las tres Cabeceras que la corresponden. Y con el fin de afianzar en todo aquel Reino el logro del importante objeto manifestado por el anterior Artículo en razón de las subdelegaciones que dispone, mando que los respectivos Intendentes las hagan igualmente en los dichos Gobernadores, (exclusos los de Yucatan y Veracruz) y en el Teniente de Rei de la Ciudad de Campeche, por lo tocante á las dos causas de Hacienda y económico de Guerra en los territorios de sus respectivos mandos.
-
 11
 A medida que se vayan suprimiendo los Corregimientos y Alcaldías Mayores indicados en el Artículo 9, ha de recaer la Jurisdiccion Real que exercen en los Intendentes respectivos como Justicias Mayores de sus Provincias, sin perjuicio de la que corresponde á los Alcaldes Ordinarios que debe haber en las Ciudades, Villas y Lugares de Españoles con restriccion á sus distritos ó jurisdicciones, pues en los Pueblos que hasta ahora no los tuvieren, siendo de competente vecindario, (sin exceptuar las Capitales de las Intendencias, ni las de los Gobiernos que se dexan existentes) se han de elegir del mismo modo también dos el primer año en que se verifique esta providencia; y donde no hubiere formal Ayuntamiento que pueda executarlo conforme á las Leyes que tratan del asunto (*: Exprésanse baxo el Núm.° 1 las Leyes que se indican.), harán siémpre estos nombramientos cada Gobernador político y militar en su distrito, y en lo restante de las Provincias los respectivos Intendentes, arreglándose únos y ótros al espíritu de las indicadas Leyes, y sin necesidad de confirmacion respecto de ser mi Real voluntad que, entendiéndose expresamente derogada la lei 10 tít. 3 líb. 5, recaiga privativa y respectivamente, conforme á lo que va declarado, en los mismos Gobernadores é Intendentes la facultad de confirmar las elecciones que hiciesen los Ayuntamientos, tomando para lo úno y lo ótro previamente los informes que regularen conducentes á fin de que se verifiquen dichos empléos en los sugetos que juzguen mas á propósito para la buena administracion de Justicia, y la correspondiente seguridad de los intereses de mi Real Hacienda que debiesen entrar en su poder conforme á lo que por esta Instruccion se dispone. Y tanto en los unos como en los otros Pueblos, esto es, con Ayuntamiento, ó sin él, sólo se elegirá cada año de los sucesivos uno de los dichos Alcaldes para que su oficio sea bienal en todos, y que el mas antiguo instruya al que entrare de nuevo: advirtiéndose que para continuar con éste en el segundo año ha de quedar el de primer voto de los nombrados en el primero, y que anulo expresamente la facultad ó arbitrio que los Gobernadores en quanto á lo político, Corregidores y Alcaldes Mayores, hubiesen tenido de poner Tenientes en algunas Ciudades, Villas ó Lugares de los que se indican en este Artículo.
-
 12
 En cada Pueblo de Indios que sea Cabecera de Partido, y en que hubiese habido Teniente de Gobernador, Corregidor ó Alcalde Mayor, se ha de poner un Subdelegado, que lo ha de ser en las quatro causas, y precisamente Español, para que, precediendo las fianzas que dispone la lei 9 título 2 libro 5, administre justicia en los Pueblos que correspondan al Partido, y mantenga á los Naturales de él en buen órden, obediencia y civilidad. Su nombramiento ha de hacerlo con Título formal, y sin derechos, el Intendente de la Provincia por sí sólo, y por el tiempo de su voluntad, en aquellos Pueblos Cabeceras que no sean del distrito de alguno de los Gobiernos exceptuados; y en los que lo fuesen, lo harán de un acuerdo, y con la misma calidad, el dicho Intendente y el respectivo Gobernador, tomando para ello úno y ótro individuales informes y noticias acerca de los sugetos, y prefiriendo en iguales circunstancias á los Administradores de Tabaco, Alcabalas ú otros ramos de mi Erario donde los hubiere. Pero ni los dichos Subdelegados, ni los Alcaldes Ordinarios, ni los Gobernadores que quedan existentes, ni otra persona alguna sin excepción, han de poder repartir á los Indios, Españoles, Mestizos y demas castas, efectos, frutos ni ganados algunos, baxo la pena irremisible de perder su valor en beneficio de los Naturales perjudicados, y de pagar otro tanto, que se aplicará por terceras partes á mi Real Cámara, Juez y Denunciador; y en casos de reincidencia, formada Sumaria por el Intendente, y dando cuenta con ella á la Junta Superior de Hacienda, oidas las partes, y justificado el delito, se aumentará el castigo hasta la confiscacion de bienes y destierro perpetuo de los delinquientes; cuya execucion suspenderá para con sólo los Gobernadores referidos miéntras me consulte la sentencia, y nó para con los demás sinó hubiere lugar al recurso de apelacion á mi Real Persona: entendiéndose que los Indios y demas Vasallos mios de aquellos Dominios quedan, por conseqüencia, en libertad de comerciar donde y con quien les acomode para surtirse de todo lo que necesiten. Y si ademas de los Pueblos Cabeceras que van indicados reconociese el Intendente ser necesario en alguno otro de su Provincia, y de meros Indios, nombrar también Subdelegado, podrá hacerse según va prevenido, y precediendo consulta á la Junta Superior de Hacienda y su aprobación, la qual, en tal caso, me dará cuenta por la Via reservada de las Indias para mi noticia.
-
 13
 Sin embargo de esta providencia de poner Jueces Españoles en los Pueblos Cabeceras de meros Indios que por el Articulo antecedente se indican, es mi Real voluntad conservar á éstos, por hacerles bien y merced, el derecho y antigua costumbre, donde la hubiere, de elegir cada año entre ellos mismos los Gobernadores ó Alcaldes, y demas Oficios de República que les permiten las Leyes y Ordenanzas para su régimen puramente económico, y para que exijan de los mismos Naturales el Real Tributo que pagan á mi Soberanía en reconocimiento del vasallage y suprema proteccion que les está concedida, á ménos que no corra á cargo de otros Naturales que los Intendentes ó sus Subdelegados tuviesen á bien nombrar por tales Gobernadores, ó Cobradores, según la práctica, para la mencionada exáccion y mayor seguridad de mi Real Hacienda en esta parte. Y á fin de evitar los disturbios, pleitos y alborotos que freqüentemente se originan entre aquellos Naturales con motivo de sus elecciones de oficios, mando que siémpre asista y presida en sus Juntas el Juez Español, ó el que éste, hallándose ausente ó legítimamente impedido, nombrare para ello, con tal que también sea Español; y que de otro modo no puedan celebrarlas, ni tener validacion lo que acordaren en ellas.
-
 14
 Hechas estas elecciones de los Indios al tiempo acostumbrado y en la forma aquí prevenida, darán cuenta de ellas el Subdelegado ó Alcaldes Ordinarios con informe al Intendente de la Provincia, ó al Gobernador respectivo si fuesen en el distrito de alguno de los que quedan existentes, á fin de que las apruebe, ó reforme, prefiriendo á los que sepan el Idioma Castellano y mas se distingan en las recomendables aplicaciones de la Agricultura ó Industria, y procurando con oportunidad, y por los medios que regule mas suaves, inclinar á los Naturales á que atiendan también las expresadas circunstancias en dichas elecciones: las quales, así despachadas por el Intendente ó Gobernador, las devolverá al Juez, que ha de executarlas, sin permitir exáccion alguna de derechos á los Indios: entendiéndose expresamente dérogada qualquiera práctica ó costumbre contraria á esta disposición. Y á fin de que no quede ceñido al solo medio que va ordenado el importantísimo objeto de estimular á los Naturales á que se dediquen á la Agricultura é Industria, y á hablar el Castellano, protegerán en todo los Intendentes, sus Subdelegados y Alcaldes Ordinarios respectivamente, á los que mas sobresalgan en lo úno, ó en lo ótro.
-
 CAUSA DE JUSTICIA.
-
 15
 El Intendente General de Exército y Real Hacienda, y cada uno de los de Provincia, ha de tener un Teniente Letrado que exerza por sí la Jurisdiccion contenciosa Civil y Criminal en la Capital y su particular territorio, y que al mismo tiempo sea Asesor ordinario en todos los negocios de la Intendencia, supliendo las veces del Gefe de ella en su falta, enfermedades, y ausencias que hiciere á visitar su Provincia, ó con otra justa causa: entendiéndose que el Asesor del Intendente General lo ha de ser también en todo lo respectivo á la Superintendencia de mi Real Hacienda que exerce, y suplir en ella sus ausencias, enfermedades ó falta. Y para que dichos Tenientes tengan todas las circunstancias que requieren sus empléos, han de estar exáminados y aprobados por mis Consejos, Chancillerías ó Audiencias, y serán nombrados por Mí á consulta de la Cámara de Indias, que me propondrá para cada Tenencia tres sugetos de literatura y providad conocidas, á fin de que Yo elija de ellos (quando no lo hiciere fuera de consulta como lo execute con los primeros) el que estimase mas conveniente á mi Real Servicio.
 16
