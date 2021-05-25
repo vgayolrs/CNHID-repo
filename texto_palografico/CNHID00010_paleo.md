@@ -6,7 +6,7 @@ loc: San Ildefonso
 reg: Antonio Porlier al virrey de México. Real orden.
 transc: Víctor Gayol
 ---
-R<ecibi>da en 27 de marzo de 89 [+]
+R\<ecibi\>da en 27 de marzo de 89 [+]
 N:79
 Exmõ S.or
 Correspondiendo a los Virreyes, y demas Personas a cuio cargo está el Superior Govierno delos Reynos y Provincias de Indias velar sobre la buena administracion de X.a en sus distritos respectivos, y siendo por esta razon, no solo conven.te y decoroso, sino absolutam.te necesario que tengan conocim.to y satisfaccion de los sugetos que nombran los Governadores Yntendetes para subdelegados suyos en los parages donde se hallan establecidas Yntend.as ha resuelto S. M. con previo dictamen de su suprema Junta de Estado que dichos Yntendentes den cuenta á los Virreyes, Presidentes, ó Governadores que tengan a su cargo el superior Govierno de la Prov.a de los nombram.tos de subdelegados que hagan con expresion delas circunstancias y aptitud que concurran en los sugetos, sin ponerlos en posesion hasta que los Virreyes, Presidentes ó Governadores los aprueben; pero si estos por la noticias que yá tengan, ó tomaren de ellos no juzgaren conven.te aprobarlos, lo avisarán á los Yntend.tes para q.e nombren otros con la misma circunstancia de esperar la aprovacion; y si en este segundo caso tuvieren tambien los Virreyes y demas Personas que tengan el Govierno Superior justas razones para no aprovar los nombrados, los nombrarán ellos mismos en virtud de sus facultades superiores economicas y darán cuenta á S.M. con expresion de las razones que huvieren tenido para proceder y executarlo asi. Prevengolo á V.E. de Real Orden para su intelig.a y cumplim.to en el distrito de su mando. Dios gūe a V.E. n.s a.s S.n Ildefonso 7 de Octubre de 1788.
