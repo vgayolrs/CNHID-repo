@@ -1,6 +1,10 @@
 ---
 id: CNHID00010
 id2: AGN, RCO.141.79.ff.103r.-104r.
+date: 1789-03-27
+loc: San Ildefonso
+reg: Antonio Porlier al virrey de México. Real orden.
+transc: Víctor Gayol
 ---
 R.da en 27 de marzo de 89 +
 N:79
