@@ -15,7 +15,7 @@
             distintos aspectos de la edición -->
             <title>CNHID00008</title>
             <funder><!-- Patrocinio ¿colmich? --></funder>
-            <principal><!-- ¿José Luis Alcauter --></principal>
+            <principal><!-- ¿José Luis Alcauter? --></principal>
             <respStmt>
                <resp>transcripción</resp>
                <name>
@@ -81,7 +81,6 @@
          <classDecl>
             <taxonomy xml:id="T-CNHID">
                <bibl>Tipología diplomática CNHID, 2021</bibl>
-               <!-- Definir, a partir de la lista propuesta, un auto acordado de la Aduiencia de México -->
                <category xml:id="auDel-RlProv">
                   <category xml:id="RlOrd">
                      <catDesc>Real orden del marqués de Sonora</catDesc>
