@@ -14,11 +14,14 @@
             electrónico y otra información sobre las personas responsables para
             distintos aspectos de la edición -->
             <title>CNHID00008</title>
-            <funder>Patrocinio</funder>
-            <principal>Nombre del investigador principal</principal>
+            <funder><!-- Patrocinio ¿colmich? --></funder>
+            <principal><!-- ¿José Luis Alcauter --></principal>
             <respStmt>
                <resp>transcripción</resp>
-               <name>Nombre</name>
+               <name>
+                  <forename>Víctor</forename>
+                  <surname>Gayol</surname>
+               </name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -28,7 +31,7 @@
             <date>2021</date>
             <idno></idno>
             <distributor>El Colegio de Michoacán, A.C.</distributor>
-            <availability><licence>Creative Commons</licence></availability>
+            <availability><licence>CC-BY</licence></availability>
          </publicationStmt>
          <sourceDesc>
             <!-- Información sobre la fuente para edición en formato digital -->
@@ -101,6 +104,7 @@
       <revisionDesc>
       <!-- Información sobre las revisiones del archivo electrónico -->
          <change when="2021-05-24">Creación del archivo</change>
+         <change when="2021-05-26">Arreglo de metadatos</change>
       </revisionDesc>
   </teiHeader>
   <text>
