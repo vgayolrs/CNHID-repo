@@ -82,9 +82,9 @@
             <taxonomy xml:id="T-CNHID">
                <bibl>Tipología diplomática CNHID, 2021</bibl>
                <!-- Definir, a partir de la lista propuesta, un auto acordado de la Aduiencia de México -->
-               <category xml:id="auDel-RlProv">
-                  <category xml:id="AudMx-AutAcord">
-                     <catDesc>Auto Acordado de la Audiencia de México</catDesc>
+               <category xml:id="auSob-RlCed">
+                  <category xml:id="RlCed">
+                     <catDesc>Real cédula</catDesc>
                   </category>
                </category>
             </taxonomy>
