@@ -103,6 +103,7 @@
       <revisionDesc>
       <!-- Información sobre las revisiones del archivo electrónico -->
          <change when="2021-05-17">Creación del archivo</change>
+         <change when="2021-05-26">etiquetado tei</change>
       </revisionDesc>
   </teiHeader>
   <text>
@@ -157,34 +158,34 @@
                <lb break="no"/>cas y darán cuenta á <choice><abbr>S.M.</abbr><expan>S<ex>u</ex> M<ex>ajestad</ex></expan></choice> con 
                <lb/>expresion de las razones que huvie
                <lb break="no"/>ren tenido para proceder y execu
-               <lb break="no"/>tarlo asi. Prevengolo á V.E. de 
-               <lb/>Real Orden para su intelig.a y cum
-               <lb break="no"/>plim.to en el distrito de su man
-               <lb/>do. Dios gūe a V.E. n.s a.s S.n Ilde
+               <lb break="no"/>tarlo asi. Prevengolo á <choice><abbr>V.E.</abbr><expan>V<ex>uestra </ex><ex>Excelencia</ex></expan></choice> de 
+               <lb/>Real Orden para su <choice><abbr>intelig.a</abbr><expan>intelig<ex>enci</ex>a</expan></choice> y <choice><abbr>cum
+               <lb break="no"/>plim.to</abbr><expan>cumplim<ex>ien</ex>to</expan></choice> en el distrito de su man
+               <lb/>do. Dios <choice><abbr>gūe</abbr><expan>gu<ex>ard</ex>e</expan></choice> a <choice><abbr>V.E.</abbr><expan>V<ex>uestra </ex><ex>Excelencia</ex></expan></choice> <choice><abbr>m.s</abbr><expan>m<ex>uchos</ex></expan></choice> <choice><abbr>a.s</abbr><expan>a<ex>ño</ex>s</expan></choice> <choice><abbr>S.n</abbr><expan>S<ex>a</ex>n</expan></choice> Ilde
                <lb break="no "/>fonso 7 de Octubre de 1788.
             </p>
             <p>
-               <lb/>Ant.o Porlier
+               <lb/><choice><abbr>Ant.o</abbr><expan>Ant<ex>oni</ex>o</expan></choice> Porlier
             </p>
             <p>
-               <lb/>S.or Virrey de Mexico
+               <lb/><choice><abbr>S.or</abbr><expan>S<ex>eñ</ex>or</expan></choice> Virrey de Mexico
             </p>
             <p><pb n=""/>
                <lb/>Mexico 27 de Febrero de 1789.
             </p>
             <p>
-               <lb/>Para el puntual cumplimiento de lo q.e S.M. 
+               <lb/>Para el puntual cumplimiento de lo <choice><abbr>q.e</abbr><expan>q<ex>u</ex>e</expan></choice> <choice><abbr>S.M.</abbr><expan>S<ex>u </ex>M<ex>ajestad</ex></expan></choice> 
                <lb/>se sirve mandar en esta Real orden trasladese 
-               <lb/>a los Srês. Yntendentes del Distrito de este Vi
+               <lb/>a los <choice><abbr>Srês.</abbr><expan>S<ex>eño</ex>res</expan></choice> Yntendentes del Distrito de este Vi
                <lb/>rreinato á la Real Audiencia, y a los Señores 
-               <lb/>Fiscales y Asesor grãl., dandose cuenta a S.M. 
+               <lb/>Fiscales y Asesor <choice><abbr>grãl.</abbr><expan>g<ex>ene</ex>ral</expan></choice>, dandose cuenta a <choice><abbr>S.M.</abbr><expan>S<ex>u </ex>M<ex>ajestad</ex></expan></choice> 
                <lb/>de esta procidencia en contestacion.
             </p>
             <p>
                <lb/>Florez
             </p>
             <p>
-               <lb/>Fhotodo Antonio Bonilla
+               <lb/><choice><abbr>Fhotodo</abbr><expan>F<ex>echo </ex>todo</expan></choice> Antonio Bonilla
             </p>
          </div>
       </body>
