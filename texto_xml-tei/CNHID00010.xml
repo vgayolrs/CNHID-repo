@@ -14,8 +14,8 @@
             electrónico y otra información sobre las personas responsables para
             distintos aspectos de la edición -->
             <title>CNHID00010</title>
-            <funder>Patrocinio</funder>
-            <principal>Nombre del investigador principal</principal>
+            <funder><!-- ¿colmich? --></funder>
+            <principal><!-- ¿José Luis Alcauter? --></principal>
             <respStmt>
                <resp>transcripción</resp>
                <name>
@@ -131,12 +131,12 @@
                <lb break="no"/>bran los Governadores Yntendetes pa
                <lb break="no"/>ra subdelegados suyos en los parages 
                <lb/>donde se hallan establecidas <choice><abbr>Yntend.as</abbr><expan>Yntend<ex>enci</ex>as</expan></choice> 
-               <lb/>ha resuelto S. M. con previo dictamen 
+               <lb/>ha resuelto <choice><abbr>S. M.</abbr><expan>S<ex>u</ex> M<ex>ajestad</ex></expan></choice> con previo dictamen 
                <lb/>de su suprema Junta de Estado que 
                <lb/>dichos Yntendentes den cuenta á los 
                <lb/>Virreyes, Presidentes, ó Governadores 
                <lb/>que tengan a su cargo el superior Go
-               <lb break="no"/>vierno de la Prov.a de los nombram.tos 
+               <lb break="no"/>vierno de la <choice><abbr>Prov.a</abbr><expan>Prov<ex>inci</ex>a</expan></choice> de los <choice><abbr>nombram.tos</abbr><expan>nombram<ex>ien</ex>tos</expan></choice> 
                <lb/>de subdelegados que hagan con expre
                <lb break="no"/>sion delas circunstancias y aptitud 
                <lb/>que concurran en los sugetos, sin po
@@ -145,7 +145,7 @@
                <lb/>aprueben; pero si estos por la noticias 
                <lb/>que yá tengan, ó tomaren de ellos no 
                <lb/>juzgaren conven.te aprobarlos, lo avisa
-               <pb n=""/><lb break="no"/>rán á los Yntend.tes para q.e nombren 
+               <pb n=""/><lb break="no"/>rán á los <choice><abbr>Yntend.tes</abbr><expan>Yntend<ex>en</ex>tes</expan></choice> para <choice><abbr>q.e</abbr><expan>q<ex>u</ex>e</expan></choice> nombren 
                <lb/>otros con la misma circunstancia de 
                <lb/>esperar la aprovacion; y si en este se
                <lb break="no"/>gundo caso tuvieren tambien los Virre
@@ -154,7 +154,7 @@
                <lb break="no"/>ra no aprovar los nombrados, los 
                <lb/>nombrarán ellos mismos en virtud 
                <lb/>de sus facultades superiores economi
-               <lb break="no"/>cas y darán cuenta á S.M. con 
+               <lb break="no"/>cas y darán cuenta á <choice><abbr>S.M.</abbr><expan>S<ex>u</ex> M<ex>ajestad</ex></expan></choice> con 
                <lb/>expresion de las razones que huvie
                <lb break="no"/>ren tenido para proceder y execu
                <lb break="no"/>tarlo asi. Prevengolo á V.E. de 
