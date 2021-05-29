@@ -81,7 +81,6 @@
          <classDecl>
             <taxonomy xml:id="T-CNHID">
                <bibl>Tipología diplomática CNHID, 2021</bibl>
-               <!-- Definir, a partir de la lista propuesta, un auto acordado de la Aduiencia de México -->
                <category xml:id="auSob-RlCed">
                   <category xml:id="RlCed">
                      <catDesc>Real cédula</catDesc>
@@ -104,11 +103,12 @@
       <revisionDesc>
       <!-- Información sobre las revisiones del archivo electrónico -->
          <change when="2021-05-17">Creación del archivo</change>
+         <change when="2021-05-29">ediciones menores y correcciones</change>
       </revisionDesc>
   </teiHeader>
   <text>
       <body>
-         <pb n=""/>
+         <pb n="22r."/>
          <div>
             <p>
                <lb/>R. en 23 de Mayo
