@@ -6,7 +6,7 @@ normativos hispano-indianos que se hayan producido entre 1492 y 1821.
 
 Es una adaptación del proyecto inicial del [corpus de derecho hispano indiano](https://github.com/Cibercliografia/Corpus-de-derecho-castellano-indiano-digital), cuya primera propuesta se presentó en el marco de la DH2018 conference, “Puentes/Bridges” con el título [“Corpus Jurídico Hispano Indiano Digital: Análisis De Una Cultura Jurisdiccional”](https://dh-abstracts.library.cmu.edu/works/6545)
 
-La finalidad es desarrollar un sistema de publicación de fuentes
+La finalidad es desarrollar una propuesta de edición de fuentes
 normativas digitalizadas aprovechando la [TEI](https://tei-c.org/) y que facilite no sólo
 su publicación en línea sino que sirvan para el análisis de estos
 textos con herramientas digitales.
