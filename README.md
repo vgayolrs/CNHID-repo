@@ -9,7 +9,7 @@ Es una adaptación del proyecto inicial del [corpus de derecho hispano indiano](
 La finalidad es desarrollar una propuesta de edición de fuentes
 normativas digitalizadas aprovechando la [TEI](https://tei-c.org/) y que facilite no sólo
 su publicación en línea sino que sirvan para el análisis de estos
-textos con herramientas digitales.
+textos con herramientas digitales como las propuestas en [The Programming Historian](https://programminghistorian.org/).
 
 El proyecto se conecta con los trabajos de investigación de la Red de Estudios
 del Régimen de Subdelegaciones en la América Borbónica [RERSAB](http://www.rersab.org/)
